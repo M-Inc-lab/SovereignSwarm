@@ -1,0 +1,95 @@
+{
+  "master_wallet": {
+    "balance_usd": 828.032,
+    "total_earned": 1078.032,
+    "last_updated": "2026-04-19T20:28:48"
+  },
+  "agents": {
+    "agent_4a1c59ed79bc": {
+      "agent_id": "agent_4a1c59ed79bc",
+      "name": "SecAgent",
+      "status": "alive",
+      "wallet": {
+        "balance_usd": 1986.6960222222233,
+        "total_earned": 1996.735,
+        "last_updated": "2026-04-19T20:28:42"
+      },
+      "income_streams": [
+        "security_audit",
+        "bounty"
+      ],
+      "tasks_completed": 48,
+      "birth_time": "2026-04-19T20:26:30",
+      "last_heartbeat": "2026-04-19T20:28:41"
+    },
+    "agent_ac85b1838393": {
+      "agent_id": "agent_ac85b1838393",
+      "name": "DevAgent",
+      "status": "alive",
+      "wallet": {
+        "balance_usd": 1819.6450888888896,
+        "total_earned": 1844.6784999999995,
+        "last_updated": "2026-04-19T20:28:48"
+      },
+      "income_streams": [
+        "freelance_dev",
+        "api_aggregation"
+      ],
+      "tasks_completed": 35,
+      "birth_time": "2026-04-19T20:26:59",
+      "last_heartbeat": "2026-04-19T20:28:48"
+    },
+    "agent_4bc9692c51c9": {
+      "agent_id": "agent_4bc9692c51c9",
+      "name": "SecAgent",
+      "status": "alive",
+      "wallet": {
+        "balance_usd": 1520.2215377777788,
+        "total_earned": 1526.7530000000002,
+        "last_updated": "2026-04-19T20:28:48"
+      },
+      "income_streams": [
+        "security_audit",
+        "bounty"
+      ],
+      "tasks_completed": 32,
+      "birth_time": "2026-04-19T20:27:04",
+      "last_heartbeat": "2026-04-19T20:28:48"
+    },
+    "agent_c62d8040ea0d": {
+      "agent_id": "agent_c62d8040ea0d",
+      "name": "SaaSAgent",
+      "status": "alive",
+      "wallet": {
+        "balance_usd": 152.56566666666666,
+        "total_earned": 204.58649999999997,
+        "last_updated": "2026-04-19T20:28:48"
+      },
+      "income_streams": [
+        "saas",
+        "subscription"
+      ],
+      "tasks_completed": 31,
+      "birth_time": "2026-04-19T20:27:10",
+      "last_heartbeat": "2026-04-19T20:28:48"
+    },
+    "agent_1dad15faa0f1": {
+      "agent_id": "agent_1dad15faa0f1",
+      "name": "SaaSAgent",
+      "status": "alive",
+      "wallet": {
+        "balance_usd": 146.07486111111112,
+        "total_earned": 196.09500000000006,
+        "last_updated": "2026-04-19T20:28:48"
+      },
+      "income_streams": [
+        "saas",
+        "subscription"
+      ],
+      "tasks_completed": 30,
+      "birth_time": "2026-04-19T20:27:12",
+      "last_heartbeat": "2026-04-19T20:28:48"
+    }
+  },
+  "transactions": []
+}

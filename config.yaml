@@ -1,0 +1,66 @@
+# SovereignSwarm Configuration
+# ⚠️ BANK DETAILS: Owner will provide via secure onboarding
+
+stripe:
+  master_account_id: "acct_OWNER_WILL_PROVIDE"
+  platform_fee_percent: 15
+  payout_threshold_usd: 50.0
+  payout_schedule: daily
+
+economy:
+  survival_cost_per_hour: 2.50
+  spawn_cost: 50
+  death_threshold: 0
+  credit_dollar_rate: 0.0025
+
+agents:
+  max_concurrent: 10
+  heartbeat_interval_seconds: 60
+  death_grace_period_seconds: 300
+
+verticals:
+  bug_bounty:
+    enabled: true
+    platforms: ["hackerone", "bugcrowd", "openbugbounty"]
+    min_bounty_usd: 50
+    commission: 20
+
+  code_merchant:
+    enabled: true
+    platforms: ["gumroad", "lemonsqueezy"]
+    base_app_price_usd: 49
+    commission: 10
+
+  data_analyst:
+    enabled: true
+    base_rate_usd_per_report: 99
+    commission: 15
+
+  security_auditor:
+    enabled: true
+    platforms: ["tarslab", "pentest_tools"]
+    hourly_rate_usd: 150
+    commission: 15
+
+  swarm_predictor:
+    enabled: true
+    subscription_usd_per_month: 49
+    commission: 20
+
+  freelance_coder:
+    enabled: true
+    platforms: ["upwork", "fiverr"]
+    commission: 25
+
+  api_middleware:
+    enabled: true
+    commission: 30
+
+apis:
+  stripe_secret_key: "${STRIPE_SECRET_KEY}"
+  hackerone_api_key: "${HACKERONE_API_KEY}"
+  bugcrowd_api_key: "${BUGCROWD_API_KEY}"
+  tavily_api_key: "${TAVILY_API_KEY}"# Auto-added: owner's BNB Smart Chain wallet
+crypto:
+  bnb_receiving_address: "0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"
+  bnb_chain_id: 56  # BNB Smart Chain mainnet

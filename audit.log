@@ -1,0 +1,387 @@
+[
+  {
+    "time": "2026-04-19T04:48:05",
+    "agent_id": "agent_f6aa743cdb86",
+    "type": "spawn",
+    "amount_usd": 50,
+    "source": "spawned_SecAgent"
+  },
+  {
+    "time": "2026-04-19T04:48:16",
+    "agent_id": "agent_4b31007e9bff",
+    "type": "spawn",
+    "amount_usd": 50,
+    "source": "spawned_BotAgent"
+  },
+  {
+    "time": "2026-04-19T04:48:29",
+    "agent_id": "agent_8dbf11361678",
+    "type": "spawn",
+    "amount_usd": 50,
+    "source": "spawned_DataAgent"
+  },
+  {
+    "time": "2026-04-19T04:48:29",
+    "agent_id": "agent_8dbf11361678",
+    "type": "income",
+    "amount_usd": 14.914012548056089,
+    "source": "data_scraping_task"
+  },
+  {
+    "time": "2026-04-19T04:48:31",
+    "agent_id": "agent_8dbf11361678",
+    "type": "income",
+    "amount_usd": 12.836797625072988,
+    "source": "data_scraping_task"
+  },
+  {
+    "time": "2026-04-19T04:48:33",
+    "agent_id": "agent_8dbf11361678",
+    "type": "income",
+    "amount_usd": 48.6753494886807,
+    "source": "data_analysis_task"
+  },
+  {
+    "time": "2026-04-19T04:48:35",
+    "agent_id": "agent_8dbf11361678",
+    "type": "income",
+    "amount_usd": 12.895980185200347,
+    "source": "data_scraping_task"
+  },
+  {
+    "time": "2026-04-19T04:48:37",
+    "agent_id": "agent_8dbf11361678",
+    "type": "income",
+    "amount_usd": 14.245659057030313,
+    "source": "data_scraping_task"
+  },
+  {
+    "time": "2026-04-19T04:48:39",
+    "agent_id": "agent_8dbf11361678",
+    "type": "income",
+    "amount_usd": 34.4125874855331,
+    "source": "data_analysis_task"
+  },
+  {
+    "time": "2026-04-19T04:48:41",
+    "agent_id": "agent_8dbf11361678",
+    "type": "income",
+    "amount_usd": 35.8274094374645,
+    "source": "data_analysis_task"
+  },
+  {
+    "time": "2026-04-19T04:48:43",
+    "agent_id": "agent_8dbf11361678",
+    "type": "income",
+    "amount_usd": 41.39113135637994,
+    "source": "data_analysis_task"
+  },
+  {
+    "time": "2026-04-19T04:48:45",
+    "agent_id": "agent_8dbf11361678",
+    "type": "income",
+    "amount_usd": 34.116412281395604,
+    "source": "data_analysis_task"
+  },
+  {
+    "time": "2026-04-19T04:48:47",
+    "agent_id": "agent_a7f720c59c3c",
+    "type": "spawn",
+    "amount_usd": 50,
+    "source": "spawned_SecAgent"
+  },
+  {
+    "time": "2026-04-19T04:48:47",
+    "agent_id": "agent_8dbf11361678",
+    "type": "income",
+    "amount_usd": 15.075672834617063,
+    "source": "data_scraping_task"
+  },
+  {
+    "time": "2026-04-19T04:48:47",
+    "agent_id": "agent_a7f720c59c3c",
+    "type": "income",
+    "amount_usd": 82.2413700387954,
+    "source": "security_audit_task"
+  },
+  {
+    "time": "2026-04-19T04:48:49",
+    "agent_id": "agent_8dbf11361678",
+    "type": "income",
+    "amount_usd": 37.68120193341262,
+    "source": "data_analysis_task"
+  },
+  {
+    "time": "2026-04-19T04:48:49",
+    "agent_id": "agent_a7f720c59c3c",
+    "type": "income",
+    "amount_usd": 64.98366899946241,
+    "source": "security_audit_task"
+  },
+  {
+    "time": "2026-04-19T04:48:51",
+    "agent_id": "agent_8dbf11361678",
+    "type": "income",
+    "amount_usd": 48.067086059518125,
+    "source": "data_analysis_task"
+  },
+  {
+    "time": "2026-04-19T04:48:51",
+    "agent_id": "agent_a7f720c59c3c",
+    "type": "income",
+    "amount_usd": 78.87557330765789,
+    "source": "security_audit_task"
+  },
+  {
+    "time": "2026-04-19T04:48:53",
+    "agent_id": "agent_d51feeb136b9",
+    "type": "spawn",
+    "amount_usd": 50,
+    "source": "spawned_ContentAgent"
+  },
+  {
+    "time": "2026-04-19T04:48:53",
+    "agent_id": "agent_8dbf11361678",
+    "type": "income",
+    "amount_usd": 39.46401519155191,
+    "source": "data_analysis_task"
+  },
+  {
+    "time": "2026-04-19T04:48:53",
+    "agent_id": "agent_a7f720c59c3c",
+    "type": "income",
+    "amount_usd": 57.62895870361225,
+    "source": "security_audit_task"
+  },
+  {
+    "time": "2026-04-19T04:48:53",
+    "agent_id": "agent_d51feeb136b9",
+    "type": "income",
+    "amount_usd": 19.432033140205103,
+    "source": "freelance_dev_task"
+  },
+  {
+    "time": "2026-04-19T04:48:55",
+    "agent_id": "agent_8dbf11361678",
+    "type": "income",
+    "amount_usd": 13.529783795237785,
+    "source": "data_scraping_task"
+  },
+  {
+    "time": "2026-04-19T04:48:55",
+    "agent_id": "agent_a7f720c59c3c",
+    "type": "income",
+    "amount_usd": 73.38105827259528,
+    "source": "security_audit_task"
+  },
+  {
+    "time": "2026-04-19T04:48:55",
+    "agent_id": "agent_d51feeb136b9",
+    "type": "income",
+    "amount_usd": 17.082552881938526,
+    "source": "content_gen_task"
+  },
+  {
+    "time": "2026-04-19T04:48:57",
+    "agent_id": "agent_3a570346693a",
+    "type": "spawn",
+    "amount_usd": 50,
+    "source": "spawned_DataAgent"
+  },
+  {
+    "time": "2026-04-19T04:48:57",
+    "agent_id": "agent_8dbf11361678",
+    "type": "income",
+    "amount_usd": 10.451671810218958,
+    "source": "data_scraping_task"
+  },
+  {
+    "time": "2026-04-19T04:48:57",
+    "agent_id": "agent_a7f720c59c3c",
+    "type": "income",
+    "amount_usd": 57.36306194728851,
+    "source": "security_audit_task"
+  },
+  {
+    "time": "2026-04-19T04:48:57",
+    "agent_id": "agent_d51feeb136b9",
+    "type": "income",
+    "amount_usd": 22.59142946832463,
+    "source": "freelance_dev_task"
+  },
+  {
+    "time": "2026-04-19T04:48:57",
+    "agent_id": "agent_3a570346693a",
+    "type": "income",
+    "amount_usd": 46.46859388524628,
+    "source": "data_analysis_task"
+  },
+  {
+    "time": "2026-04-19T04:48:59",
+    "agent_id": "agent_8dbf11361678",
+    "type": "income",
+    "amount_usd": 15.35236199068718,
+    "source": "data_scraping_task"
+  },
+  {
+    "time": "2026-04-19T04:48:59",
+    "agent_id": "agent_a7f720c59c3c",
+    "type": "income",
+    "amount_usd": 57.4180431425315,
+    "source": "security_audit_task"
+  },
+  {
+    "time": "2026-04-19T04:48:59",
+    "agent_id": "agent_d51feeb136b9",
+    "type": "income",
+    "amount_usd": 14.726435388962958,
+    "source": "content_gen_task"
+  },
+  {
+    "time": "2026-04-19T04:48:59",
+    "agent_id": "agent_3a570346693a",
+    "type": "income",
+    "amount_usd": 12.47603279225422,
+    "source": "data_scraping_task"
+  },
+  {
+    "time": "2026-04-19T04:49:01",
+    "agent_id": "agent_8dbf11361678",
+    "type": "income",
+    "amount_usd": 31.467286102011336,
+    "source": "data_analysis_task"
+  },
+  {
+    "time": "2026-04-19T04:49:01",
+    "agent_id": "agent_a7f720c59c3c",
+    "type": "income",
+    "amount_usd": 80.12544898953179,
+    "source": "security_audit_task"
+  },
+  {
+    "time": "2026-04-19T04:49:01",
+    "agent_id": "agent_d51feeb136b9",
+    "type": "income",
+    "amount_usd": 18.235957771386946,
+    "source": "freelance_dev_task"
+  },
+  {
+    "time": "2026-04-19T04:49:01",
+    "agent_id": "agent_3a570346693a",
+    "type": "income",
+    "amount_usd": 34.55710912845532,
+    "source": "data_analysis_task"
+  },
+  {
+    "time": "2026-04-19T04:49:03",
+    "agent_id": "agent_d8b11157bdca",
+    "type": "spawn",
+    "amount_usd": 50,
+    "source": "spawned_DataAgent"
+  },
+  {
+    "time": "2026-04-19T04:49:03",
+    "agent_id": "agent_8dbf11361678",
+    "type": "income",
+    "amount_usd": 13.102835065511288,
+    "source": "data_scraping_task"
+  },
+  {
+    "time": "2026-04-19T04:49:03",
+    "agent_id": "agent_a7f720c59c3c",
+    "type": "income",
+    "amount_usd": 63.50018743545006,
+    "source": "security_audit_task"
+  },
+  {
+    "time": "2026-04-19T04:49:03",
+    "agent_id": "agent_d51feeb136b9",
+    "type": "income",
+    "amount_usd": 23.12374209896315,
+    "source": "freelance_dev_task"
+  },
+  {
+    "time": "2026-04-19T04:49:03",
+    "agent_id": "agent_3a570346693a",
+    "type": "income",
+    "amount_usd": 37.14486601280265,
+    "source": "data_analysis_task"
+  },
+  {
+    "time": "2026-04-19T04:49:03",
+    "agent_id": "agent_d8b11157bdca",
+    "type": "income",
+    "amount_usd": 34.55468106131037,
+    "source": "data_analysis_task"
+  },
+  {
+    "time": "2026-04-19T04:49:05",
+    "agent_id": "agent_8dbf11361678",
+    "type": "income",
+    "amount_usd": 12.180443746438272,
+    "source": "data_scraping_task"
+  },
+  {
+    "time": "2026-04-19T04:49:05",
+    "agent_id": "agent_a7f720c59c3c",
+    "type": "income",
+    "amount_usd": 55.139392531143045,
+    "source": "security_audit_task"
+  },
+  {
+    "time": "2026-04-19T04:49:05",
+    "agent_id": "agent_d51feeb136b9",
+    "type": "income",
+    "amount_usd": 19.888105396609227,
+    "source": "freelance_dev_task"
+  },
+  {
+    "time": "2026-04-19T04:49:05",
+    "agent_id": "agent_3a570346693a",
+    "type": "income",
+    "amount_usd": 48.91866982571219,
+    "source": "data_analysis_task"
+  },
+  {
+    "time": "2026-04-19T04:49:05",
+    "agent_id": "agent_d8b11157bdca",
+    "type": "income",
+    "amount_usd": 41.44721200201371,
+    "source": "data_analysis_task"
+  },
+  {
+    "time": "2026-04-19T04:49:07",
+    "agent_id": "agent_8dbf11361678",
+    "type": "income",
+    "amount_usd": 16.219401142512485,
+    "source": "data_scraping_task"
+  },
+  {
+    "time": "2026-04-19T04:49:07",
+    "agent_id": "agent_a7f720c59c3c",
+    "type": "income",
+    "amount_usd": 79.69188113765719,
+    "source": "security_audit_task"
+  },
+  {
+    "time": "2026-04-19T04:49:07",
+    "agent_id": "agent_d51feeb136b9",
+    "type": "income",
+    "amount_usd": 25.457230989126064,
+    "source": "freelance_dev_task"
+  },
+  {
+    "time": "2026-04-19T04:49:07",
+    "agent_id": "agent_3a570346693a",
+    "type": "income",
+    "amount_usd": 42.5842215909545,
+    "source": "data_analysis_task"
+  },
+  {
+    "time": "2026-04-19T04:49:07",
+    "agent_id": "agent_d8b11157bdca",
+    "type": "income",
+    "amount_usd": 11.000400891648969,
+    "source": "data_scraping_task"
+  }
+]

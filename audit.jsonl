@@ -1,0 +1,625 @@
+{"time": "2026-04-19T06:08:31", "agent_id": "agent_a0adbc942e19", "type": "spawn", "amount": 50, "source": "spawned_DataAgent"}
+{"time": "2026-04-19T06:08:32", "agent_id": "agent_a0adbc942e19", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T06:08:32", "agent_id": "agent_a0adbc942e19", "type": "income", "amount": 0.00425, "source": "api_call_Stock_Quote"}
+{"time": "2026-04-19T06:08:34", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:08:37", "agent_id": "agent_a0adbc942e19", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T06:08:37", "agent_id": "agent_a0adbc942e19", "type": "income", "amount": 0.00425, "source": "api_call_Stock_Quote"}
+{"time": "2026-04-19T06:08:39", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:08:42", "agent_id": "agent_a0adbc942e19", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T06:08:43", "agent_id": "agent_a0adbc942e19", "type": "income", "amount": 0.000425, "source": "api_call_Country_Info"}
+{"time": "2026-04-19T06:08:45", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:08:48", "agent_id": "agent_a0adbc942e19", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T06:08:48", "agent_id": "agent_a0adbc942e19", "type": "income", "amount": 0.00425, "source": "api_call_Stock_Quote"}
+{"time": "2026-04-19T06:08:50", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:08:53", "agent_id": "agent_a0adbc942e19", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T06:08:53", "agent_id": "agent_a0adbc942e19", "type": "income", "amount": 0.00085, "source": "api_call_Weather"}
+{"time": "2026-04-19T06:08:55", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:08:58", "agent_id": "agent_a0adbc942e19", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T06:08:59", "agent_id": "agent_a0adbc942e19", "type": "income", "amount": 0.00085, "source": "api_call_Exchange_Rates"}
+{"time": "2026-04-19T06:09:01", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:09:04", "agent_id": "agent_a0adbc942e19", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T06:09:04", "agent_id": "agent_a0adbc942e19", "type": "income", "amount": 0.00085, "source": "api_call_Exchange_Rates"}
+{"time": "2026-04-19T06:09:06", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:09:10", "agent_id": "agent_a0adbc942e19", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T06:09:10", "agent_id": "agent_a0adbc942e19", "type": "income", "amount": 0.00085, "source": "api_call_Weather"}
+{"time": "2026-04-19T06:09:12", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:09:15", "agent_id": "agent_a0adbc942e19", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T06:09:15", "agent_id": "agent_a0adbc942e19", "type": "income", "amount": 0.00085, "source": "api_call_Weather"}
+{"time": "2026-04-19T06:09:17", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:09:20", "agent_id": "agent_a0adbc942e19", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T06:09:20", "agent_id": "agent_a0adbc942e19", "type": "income", "amount": 0.00085, "source": "api_call_Exchange_Rates"}
+{"time": "2026-04-19T06:09:22", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:09:25", "agent_id": "agent_a0adbc942e19", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T06:09:26", "agent_id": "agent_a0adbc942e19", "type": "income", "amount": 0.0017, "source": "api_call_Crypto_Price"}
+{"time": "2026-04-19T06:09:27", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:09:31", "agent_id": "agent_a0adbc942e19", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T06:09:31", "agent_id": "agent_a0adbc942e19", "type": "income", "amount": 0.0017, "source": "api_call_Crypto_Price"}
+{"time": "2026-04-19T06:09:33", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:09:36", "agent_id": "agent_a0adbc942e19", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T06:09:36", "agent_id": "agent_a0adbc942e19", "type": "income", "amount": 0.00085, "source": "api_call_Weather"}
+{"time": "2026-04-19T06:09:38", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:09:41", "agent_id": "agent_a0adbc942e19", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T06:09:41", "agent_id": "agent_a0adbc942e19", "type": "income", "amount": 0.0017, "source": "api_call_Crypto_Price"}
+{"time": "2026-04-19T06:09:43", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:09:46", "agent_id": "agent_a0adbc942e19", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T06:09:47", "agent_id": "agent_a0adbc942e19", "type": "income", "amount": 0.000425, "source": "api_call_Country_Info"}
+{"time": "2026-04-19T06:09:49", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:09:52", "agent_id": "agent_a0adbc942e19", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T06:09:52", "agent_id": "agent_a0adbc942e19", "type": "income", "amount": 0.00425, "source": "api_call_Stock_Quote"}
+{"time": "2026-04-19T06:09:54", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:09:57", "agent_id": "agent_a0adbc942e19", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T06:09:57", "agent_id": "agent_a0adbc942e19", "type": "income", "amount": 0.000425, "source": "api_call_Country_Info"}
+{"time": "2026-04-19T06:09:59", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:10:02", "agent_id": "agent_a0adbc942e19", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T06:10:02", "agent_id": "agent_a0adbc942e19", "type": "income", "amount": 0.00425, "source": "api_call_Stock_Quote"}
+{"time": "2026-04-19T06:10:04", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:10:07", "agent_id": "agent_a0adbc942e19", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T06:10:08", "agent_id": "agent_a0adbc942e19", "type": "income", "amount": 0.000425, "source": "api_call_Country_Info"}
+{"time": "2026-04-19T06:10:10", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:10:13", "agent_id": "agent_a0adbc942e19", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T06:10:14", "agent_id": "agent_a0adbc942e19", "type": "income", "amount": 0.000425, "source": "api_call_Country_Info"}
+{"time": "2026-04-19T06:10:16", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:10:52", "agent_id": "agent_ad13022e9703", "type": "spawn", "amount": 50, "source": "spawned_SaaSAgent"}
+{"time": "2026-04-19T06:10:52", "agent_id": "agent_ad13022e9703", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T06:10:52", "agent_id": "agent_ad13022e9703", "type": "income", "amount": 5.9415000000000004, "source": "saas_subscription_pdf_merger"}
+{"time": "2026-04-19T06:10:55", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:10:58", "agent_id": "agent_ad13022e9703", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T06:10:58", "agent_id": "agent_ad13022e9703", "type": "income", "amount": 5.9415000000000004, "source": "saas_subscription_pdf_merger"}
+{"time": "2026-04-19T06:11:00", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:11:03", "agent_id": "agent_ad13022e9703", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T06:11:03", "agent_id": "agent_ad13022e9703", "type": "income", "amount": 7.6415, "source": "saas_subscription_screenshot_api"}
+{"time": "2026-04-19T06:11:05", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:11:08", "agent_id": "agent_ad13022e9703", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T06:11:08", "agent_id": "agent_ad13022e9703", "type": "income", "amount": 7.6415, "source": "saas_subscription_screenshot_api"}
+{"time": "2026-04-19T06:11:10", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:11:13", "agent_id": "agent_ad13022e9703", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T06:11:13", "agent_id": "agent_ad13022e9703", "type": "income", "amount": 4.2415, "source": "saas_subscription_fx_converter"}
+{"time": "2026-04-19T06:11:15", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:11:18", "agent_id": "agent_ad13022e9703", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T06:11:18", "agent_id": "agent_ad13022e9703", "type": "income", "amount": 7.6415, "source": "saas_subscription_screenshot_api"}
+{"time": "2026-04-19T06:11:20", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:11:23", "agent_id": "agent_ad13022e9703", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T06:11:23", "agent_id": "agent_ad13022e9703", "type": "income", "amount": 6.7915, "source": "saas_subscription_img_compress"}
+{"time": "2026-04-19T06:11:25", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:11:29", "agent_id": "agent_ad13022e9703", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T06:11:29", "agent_id": "agent_ad13022e9703", "type": "income", "amount": 5.0915, "source": "saas_subscription_weather_widget"}
+{"time": "2026-04-19T06:11:30", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:11:34", "agent_id": "agent_ad13022e9703", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T06:11:34", "agent_id": "agent_ad13022e9703", "type": "income", "amount": 7.6415, "source": "saas_subscription_screenshot_api"}
+{"time": "2026-04-19T06:11:36", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:11:39", "agent_id": "agent_ad13022e9703", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T06:11:39", "agent_id": "agent_ad13022e9703", "type": "income", "amount": 6.7915, "source": "saas_subscription_img_compress"}
+{"time": "2026-04-19T06:11:41", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:11:44", "agent_id": "agent_ad13022e9703", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T06:11:44", "agent_id": "agent_ad13022e9703", "type": "income", "amount": 8.4915, "source": "saas_subscription_url_shortener"}
+{"time": "2026-04-19T06:11:46", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:11:49", "agent_id": "agent_ad13022e9703", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T06:11:49", "agent_id": "agent_ad13022e9703", "type": "income", "amount": 12.7415, "source": "saas_subscription_invoice_gen"}
+{"time": "2026-04-19T06:11:51", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:11:54", "agent_id": "agent_ad13022e9703", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T06:11:54", "agent_id": "agent_ad13022e9703", "type": "income", "amount": 8.4915, "source": "saas_subscription_url_shortener"}
+{"time": "2026-04-19T06:11:56", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:11:59", "agent_id": "agent_ad13022e9703", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T06:11:59", "agent_id": "agent_ad13022e9703", "type": "income", "amount": 5.0915, "source": "saas_subscription_weather_widget"}
+{"time": "2026-04-19T06:12:01", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:12:04", "agent_id": "agent_ad13022e9703", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T06:12:04", "agent_id": "agent_ad13022e9703", "type": "income", "amount": 5.0915, "source": "saas_subscription_weather_widget"}
+{"time": "2026-04-19T06:12:06", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:12:09", "agent_id": "agent_ad13022e9703", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T06:12:09", "agent_id": "agent_ad13022e9703", "type": "income", "amount": 8.4915, "source": "saas_subscription_url_shortener"}
+{"time": "2026-04-19T06:12:11", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:12:14", "agent_id": "agent_ad13022e9703", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T06:12:14", "agent_id": "agent_ad13022e9703", "type": "income", "amount": 3.3915, "source": "saas_subscription_email_validator"}
+{"time": "2026-04-19T06:12:16", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:12:19", "agent_id": "agent_ad13022e9703", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T06:12:19", "agent_id": "agent_ad13022e9703", "type": "income", "amount": 3.3915, "source": "saas_subscription_email_validator"}
+{"time": "2026-04-19T06:12:21", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:12:24", "agent_id": "agent_ad13022e9703", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T06:12:24", "agent_id": "agent_ad13022e9703", "type": "income", "amount": 4.2415, "source": "saas_subscription_fx_converter"}
+{"time": "2026-04-19T06:12:26", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:12:30", "agent_id": "agent_ad13022e9703", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T06:12:30", "agent_id": "agent_ad13022e9703", "type": "income", "amount": 3.3915, "source": "saas_subscription_email_validator"}
+{"time": "2026-04-19T06:12:32", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_awaiting_manual_transfer|add BNB_PRIVATE_KEY in Settings > Advanced to auto-transfer.|Your BNB address: 0x748d028019Ac129F7149fDFa676aFA2470DB2dE2"}
+{"time": "2026-04-19T06:33:28", "agent_id": "agent_ad13022e9703", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T06:33:28", "agent_id": "agent_ad13022e9703", "type": "income", "amount": 6.7915, "source": "saas_subscription_img_compress"}
+{"time": "2026-04-19T06:33:29", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 54322544373945880, overshot 54322544373945880'}"}
+{"time": "2026-04-19T06:33:32", "agent_id": "agent_ad13022e9703", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T06:33:32", "agent_id": "agent_ad13022e9703", "type": "income", "amount": 7.6415, "source": "saas_subscription_screenshot_api"}
+{"time": "2026-04-19T20:26:30", "agent_id": "agent_4a1c59ed79bc", "type": "spawn", "amount": 50, "source": "spawned_SecAgent"}
+{"time": "2026-04-19T20:26:31", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:26:31", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:26:31", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 20.374499999999998, "source": "bounty_CVE-2008-3687"}
+{"time": "2026-04-19T20:26:31", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 20.374499999999998, "source": "submitted"}
+{"time": "2026-04-19T20:26:35", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 27674302548334644, overshot 27674302548334644'}"}
+{"time": "2026-04-19T20:26:38", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:26:38", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:26:38", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 20.723, "source": "bounty_CVE-1999-0862"}
+{"time": "2026-04-19T20:26:38", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 20.723, "source": "submitted"}
+{"time": "2026-04-19T20:26:40", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 39448477921408904, overshot 39448477921408904'}"}
+{"time": "2026-04-19T20:26:49", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:26:49", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:26:50", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 78.676, "source": "bounty_CVE-2008-3687"}
+{"time": "2026-04-19T20:26:50", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 78.676, "source": "submitted"}
+{"time": "2026-04-19T20:26:51", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 84149777040840944, overshot 84149777040840944'}"}
+{"time": "2026-04-19T20:26:54", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:26:54", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:26:54", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:26:54", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:26:55", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 69.49600000000001, "source": "bounty_CVE-2005-4500"}
+{"time": "2026-04-19T20:26:55", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 69.49600000000001, "source": "submitted"}
+{"time": "2026-04-19T20:26:55", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 41.769, "source": "bounty_CVE-2005-1102"}
+{"time": "2026-04-19T20:26:55", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 41.769, "source": "submitted"}
+{"time": "2026-04-19T20:26:56", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 147367150147297856, overshot 147367150147297856'}"}
+{"time": "2026-04-19T20:26:58", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 123635280670970208, overshot 123635280670970208'}"}
+{"time": "2026-04-19T20:26:59", "agent_id": "agent_ac85b1838393", "type": "spawn", "amount": 50, "source": "spawned_DevAgent"}
+{"time": "2026-04-19T20:26:59", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:26:59", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:00", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 11.2625, "source": "bounty_CVE-2015-5305"}
+{"time": "2026-04-19T20:27:00", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 11.2625, "source": "submitted"}
+{"time": "2026-04-19T20:27:00", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:00", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 1.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:00", "agent_id": "agent_ac85b1838393", "type": "income", "amount": 18.224, "source": "freelance_gig_script"}
+{"time": "2026-04-19T20:27:01", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:01", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:01", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 78452647338173456, overshot 78452647338173456'}"}
+{"time": "2026-04-19T20:27:01", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 48.603, "source": "bounty_CVE-2013-4650"}
+{"time": "2026-04-19T20:27:01", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 48.603, "source": "submitted"}
+{"time": "2026-04-19T20:27:01", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:01", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 1.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:01", "agent_id": "agent_ac85b1838393", "type": "income", "amount": 77.05250000000001, "source": "freelance_gig_db_migration"}
+{"time": "2026-04-19T20:27:03", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 127956824804005168, overshot 127956824804005168'}"}
+{"time": "2026-04-19T20:27:04", "agent_id": "agent_4bc9692c51c9", "type": "spawn", "amount": 50, "source": "spawned_SecAgent"}
+{"time": "2026-04-19T20:27:04", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:04", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:05", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 48.9685, "source": "bounty_CVE-2014-5277"}
+{"time": "2026-04-19T20:27:05", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 48.9685, "source": "submitted"}
+{"time": "2026-04-19T20:27:05", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:05", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 1.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:05", "agent_id": "agent_ac85b1838393", "type": "income", "amount": 42.4235, "source": "freelance_gig_data_pipeline"}
+{"time": "2026-04-19T20:27:05", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:05", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:06", "agent_id": "agent_4bc9692c51c9", "type": "income", "amount": 18.088, "source": "bounty_CVE-2008-3687"}
+{"time": "2026-04-19T20:27:06", "agent_id": "agent_4bc9692c51c9", "type": "income", "amount": 18.088, "source": "submitted"}
+{"time": "2026-04-19T20:27:06", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:06", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:07", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 97617476134515968, overshot 97617476134515968'}"}
+{"time": "2026-04-19T20:27:08", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 17.442, "source": "bounty_CVE-2009-2629"}
+{"time": "2026-04-19T20:27:08", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 17.442, "source": "submitted"}
+{"time": "2026-04-19T20:27:08", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:08", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 1.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:08", "agent_id": "agent_ac85b1838393", "type": "income", "amount": 38.114000000000004, "source": "freelance_gig_data_pipeline"}
+{"time": "2026-04-19T20:27:08", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:08", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:08", "agent_id": "agent_4bc9692c51c9", "type": "income", "amount": 44.863, "source": "bounty_CVE-2004-0175"}
+{"time": "2026-04-19T20:27:08", "agent_id": "agent_4bc9692c51c9", "type": "income", "amount": 44.863, "source": "submitted"}
+{"time": "2026-04-19T20:27:09", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 143844878378595856, overshot 143844878378595856'}"}
+{"time": "2026-04-19T20:27:10", "agent_id": "agent_c62d8040ea0d", "type": "spawn", "amount": 50, "source": "spawned_SaaSAgent"}
+{"time": "2026-04-19T20:27:10", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:10", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:11", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 48.96, "source": "bounty_CVE-2014-1893"}
+{"time": "2026-04-19T20:27:11", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 48.96, "source": "submitted"}
+{"time": "2026-04-19T20:27:11", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:11", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 1.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:11", "agent_id": "agent_ac85b1838393", "type": "income", "amount": 93.398, "source": "freelance_gig_db_migration"}
+{"time": "2026-04-19T20:27:11", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:11", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:12", "agent_id": "agent_4bc9692c51c9", "type": "income", "amount": 66.03649999999999, "source": "bounty_CVE-2009-3896"}
+{"time": "2026-04-19T20:27:12", "agent_id": "agent_4bc9692c51c9", "type": "income", "amount": 66.03649999999999, "source": "submitted"}
+{"time": "2026-04-19T20:27:12", "agent_id": "agent_c62d8040ea0d", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:12", "agent_id": "agent_c62d8040ea0d", "type": "income", "amount": 4.2415, "source": "saas_subscription_fx_converter"}
+{"time": "2026-04-19T20:27:12", "agent_id": "agent_1dad15faa0f1", "type": "spawn", "amount": 50, "source": "spawned_SaaSAgent"}
+{"time": "2026-04-19T20:27:13", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:13", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:13", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 156429594809961472, overshot 156429594809961472'}"}
+{"time": "2026-04-19T20:27:13", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 71.825, "source": "bounty_CVE-2014-1893"}
+{"time": "2026-04-19T20:27:13", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 71.825, "source": "submitted"}
+{"time": "2026-04-19T20:27:13", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:13", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 1.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:13", "agent_id": "agent_ac85b1838393", "type": "income", "amount": 62.5685, "source": "freelance_gig_data_pipeline"}
+{"time": "2026-04-19T20:27:13", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:13", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:14", "agent_id": "agent_4bc9692c51c9", "type": "income", "amount": 71.62100000000001, "source": "bounty_CVE-2014-5277"}
+{"time": "2026-04-19T20:27:14", "agent_id": "agent_4bc9692c51c9", "type": "income", "amount": 71.62100000000001, "source": "submitted"}
+{"time": "2026-04-19T20:27:14", "agent_id": "agent_c62d8040ea0d", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:14", "agent_id": "agent_c62d8040ea0d", "type": "income", "amount": 3.3915, "source": "saas_subscription_email_validator"}
+{"time": "2026-04-19T20:27:14", "agent_id": "agent_1dad15faa0f1", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:14", "agent_id": "agent_1dad15faa0f1", "type": "income", "amount": 5.9415000000000004, "source": "saas_subscription_pdf_merger"}
+{"time": "2026-04-19T20:27:15", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 177866675252338176, overshot 177866675252338176'}"}
+{"time": "2026-04-19T20:27:16", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:16", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:17", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:17", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 1.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:17", "agent_id": "agent_ac85b1838393", "type": "income", "amount": 18.9465, "source": "freelance_gig_script"}
+{"time": "2026-04-19T20:27:17", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:17", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:17", "agent_id": "agent_4bc9692c51c9", "type": "income", "amount": 81.31099999999999, "source": "bounty_CVE-2005-4702"}
+{"time": "2026-04-19T20:27:17", "agent_id": "agent_4bc9692c51c9", "type": "income", "amount": 81.31099999999999, "source": "submitted"}
+{"time": "2026-04-19T20:27:17", "agent_id": "agent_c62d8040ea0d", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:17", "agent_id": "agent_c62d8040ea0d", "type": "income", "amount": 8.4915, "source": "saas_subscription_url_shortener"}
+{"time": "2026-04-19T20:27:17", "agent_id": "agent_1dad15faa0f1", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:17", "agent_id": "agent_1dad15faa0f1", "type": "income", "amount": 4.2415, "source": "saas_subscription_fx_converter"}
+{"time": "2026-04-19T20:27:18", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:18", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:18", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:18", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 1.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:18", "agent_id": "agent_ac85b1838393", "type": "income", "amount": 100.963, "source": "freelance_gig_db_migration"}
+{"time": "2026-04-19T20:27:18", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:18", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:19", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 233064762793992096, overshot 233064762793992096'}"}
+{"time": "2026-04-19T20:27:19", "agent_id": "agent_c62d8040ea0d", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:19", "agent_id": "agent_c62d8040ea0d", "type": "income", "amount": 3.3915, "source": "saas_subscription_email_validator"}
+{"time": "2026-04-19T20:27:19", "agent_id": "agent_1dad15faa0f1", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:19", "agent_id": "agent_1dad15faa0f1", "type": "income", "amount": 8.4915, "source": "saas_subscription_url_shortener"}
+{"time": "2026-04-19T20:27:20", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 265122587292132768, overshot 265122587292132768'}"}
+{"time": "2026-04-19T20:27:22", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:22", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:22", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:22", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 1.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:22", "agent_id": "agent_ac85b1838393", "type": "income", "amount": 66.028, "source": "freelance_gig_landing_page"}
+{"time": "2026-04-19T20:27:22", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:22", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:22", "agent_id": "agent_c62d8040ea0d", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:22", "agent_id": "agent_c62d8040ea0d", "type": "income", "amount": 12.7415, "source": "saas_subscription_invoice_gen"}
+{"time": "2026-04-19T20:27:22", "agent_id": "agent_1dad15faa0f1", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:22", "agent_id": "agent_1dad15faa0f1", "type": "income", "amount": 5.9415000000000004, "source": "saas_subscription_pdf_merger"}
+{"time": "2026-04-19T20:27:23", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:23", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:23", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:23", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 1.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:23", "agent_id": "agent_ac85b1838393", "type": "income", "amount": 55.78549999999999, "source": "freelance_gig_build_api"}
+{"time": "2026-04-19T20:27:23", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:23", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:23", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 289187688146943744, overshot 289187688146943744'}"}
+{"time": "2026-04-19T20:27:24", "agent_id": "agent_c62d8040ea0d", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:24", "agent_id": "agent_c62d8040ea0d", "type": "income", "amount": 3.3915, "source": "saas_subscription_email_validator"}
+{"time": "2026-04-19T20:27:24", "agent_id": "agent_1dad15faa0f1", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:24", "agent_id": "agent_1dad15faa0f1", "type": "income", "amount": 5.0915, "source": "saas_subscription_weather_widget"}
+{"time": "2026-04-19T20:27:25", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 307445387079637504, overshot 307445387079637504'}"}
+{"time": "2026-04-19T20:27:26", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:26", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:27", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 39.287, "source": "bounty_CVE-2005-4500"}
+{"time": "2026-04-19T20:27:27", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 39.287, "source": "submitted"}
+{"time": "2026-04-19T20:27:27", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:27", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 1.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:27", "agent_id": "agent_ac85b1838393", "type": "income", "amount": 44.5145, "source": "freelance_gig_bot"}
+{"time": "2026-04-19T20:27:27", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:27", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:27", "agent_id": "agent_c62d8040ea0d", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:27", "agent_id": "agent_c62d8040ea0d", "type": "income", "amount": 3.3915, "source": "saas_subscription_email_validator"}
+{"time": "2026-04-19T20:27:27", "agent_id": "agent_1dad15faa0f1", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:27", "agent_id": "agent_1dad15faa0f1", "type": "income", "amount": 7.6415, "source": "saas_subscription_screenshot_api"}
+{"time": "2026-04-19T20:27:28", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:28", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:28", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:28", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 1.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:28", "agent_id": "agent_ac85b1838393", "type": "income", "amount": 49.155499999999996, "source": "freelance_gig_bot"}
+{"time": "2026-04-19T20:27:28", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:28", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:28", "agent_id": "agent_c62d8040ea0d", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:28", "agent_id": "agent_c62d8040ea0d", "type": "income", "amount": 7.6415, "source": "saas_subscription_screenshot_api"}
+{"time": "2026-04-19T20:27:28", "agent_id": "agent_1dad15faa0f1", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:28", "agent_id": "agent_1dad15faa0f1", "type": "income", "amount": 4.2415, "source": "saas_subscription_fx_converter"}
+{"time": "2026-04-19T20:27:29", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 345547256073021184, overshot 345547256073021184'}"}
+{"time": "2026-04-19T20:27:30", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 362887361354818944, overshot 362887361354818944'}"}
+{"time": "2026-04-19T20:27:32", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:32", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:32", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:32", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 1.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:32", "agent_id": "agent_ac85b1838393", "type": "income", "amount": 86.6575, "source": "freelance_gig_db_migration"}
+{"time": "2026-04-19T20:27:32", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:32", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:32", "agent_id": "agent_c62d8040ea0d", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:32", "agent_id": "agent_c62d8040ea0d", "type": "income", "amount": 8.4915, "source": "saas_subscription_url_shortener"}
+{"time": "2026-04-19T20:27:32", "agent_id": "agent_1dad15faa0f1", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:32", "agent_id": "agent_1dad15faa0f1", "type": "income", "amount": 3.3915, "source": "saas_subscription_email_validator"}
+{"time": "2026-04-19T20:27:33", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:33", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:33", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:33", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 1.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:33", "agent_id": "agent_ac85b1838393", "type": "income", "amount": 27.506, "source": "freelance_gig_scraper"}
+{"time": "2026-04-19T20:27:33", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:33", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:33", "agent_id": "agent_c62d8040ea0d", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:33", "agent_id": "agent_c62d8040ea0d", "type": "income", "amount": 5.0915, "source": "saas_subscription_weather_widget"}
+{"time": "2026-04-19T20:27:33", "agent_id": "agent_1dad15faa0f1", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:33", "agent_id": "agent_1dad15faa0f1", "type": "income", "amount": 12.7415, "source": "saas_subscription_invoice_gen"}
+{"time": "2026-04-19T20:27:33", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 390881211867544512, overshot 390881211867544512'}"}
+{"time": "2026-04-19T20:27:34", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 403761329061961792, overshot 403761329061961792'}"}
+{"time": "2026-04-19T20:27:36", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:36", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:37", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 11.169, "source": "bounty_CVE-1999-0652"}
+{"time": "2026-04-19T20:27:37", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 11.169, "source": "submitted"}
+{"time": "2026-04-19T20:27:37", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:37", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 1.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:37", "agent_id": "agent_ac85b1838393", "type": "income", "amount": 58.666999999999994, "source": "freelance_gig_db_migration"}
+{"time": "2026-04-19T20:27:37", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:37", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:37", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:37", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:37", "agent_id": "agent_c62d8040ea0d", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:37", "agent_id": "agent_c62d8040ea0d", "type": "income", "amount": 12.7415, "source": "saas_subscription_invoice_gen"}
+{"time": "2026-04-19T20:27:37", "agent_id": "agent_1dad15faa0f1", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:37", "agent_id": "agent_1dad15faa0f1", "type": "income", "amount": 8.4915, "source": "saas_subscription_url_shortener"}
+{"time": "2026-04-19T20:27:38", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:38", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 1.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:38", "agent_id": "agent_ac85b1838393", "type": "income", "amount": 47.532000000000004, "source": "freelance_gig_build_api"}
+{"time": "2026-04-19T20:27:38", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:38", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:39", "agent_id": "agent_4bc9692c51c9", "type": "income", "amount": 21.709, "source": "bounty_CVE-2007-5712"}
+{"time": "2026-04-19T20:27:39", "agent_id": "agent_4bc9692c51c9", "type": "income", "amount": 21.709, "source": "submitted"}
+{"time": "2026-04-19T20:27:39", "agent_id": "agent_c62d8040ea0d", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:39", "agent_id": "agent_c62d8040ea0d", "type": "income", "amount": 12.7415, "source": "saas_subscription_invoice_gen"}
+{"time": "2026-04-19T20:27:39", "agent_id": "agent_1dad15faa0f1", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:39", "agent_id": "agent_1dad15faa0f1", "type": "income", "amount": 5.9415000000000004, "source": "saas_subscription_pdf_merger"}
+{"time": "2026-04-19T20:27:39", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 432805582832949696, overshot 432805582832949696'}"}
+{"time": "2026-04-19T20:27:40", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 463950643120462272, overshot 463950643120462272'}"}
+{"time": "2026-04-19T20:27:42", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:42", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:42", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:42", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 1.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:42", "agent_id": "agent_ac85b1838393", "type": "income", "amount": 35.410999999999994, "source": "freelance_gig_bot"}
+{"time": "2026-04-19T20:27:42", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:42", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:42", "agent_id": "agent_c62d8040ea0d", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:42", "agent_id": "agent_c62d8040ea0d", "type": "income", "amount": 6.7915, "source": "saas_subscription_img_compress"}
+{"time": "2026-04-19T20:27:42", "agent_id": "agent_1dad15faa0f1", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:42", "agent_id": "agent_1dad15faa0f1", "type": "income", "amount": 6.7915, "source": "saas_subscription_img_compress"}
+{"time": "2026-04-19T20:27:43", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:43", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:49", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 25.058, "source": "bounty_CVE-2012-4287"}
+{"time": "2026-04-19T20:27:49", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 25.058, "source": "submitted"}
+{"time": "2026-04-19T20:27:49", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:49", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 1.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:49", "agent_id": "agent_ac85b1838393", "type": "income", "amount": 21.0885, "source": "freelance_gig_script"}
+{"time": "2026-04-19T20:27:49", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:49", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:50", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 477869089972472320, overshot 477869089972472320'}"}
+{"time": "2026-04-19T20:27:50", "agent_id": "agent_4bc9692c51c9", "type": "income", "amount": 41.6585, "source": "bounty_CVE-2024-40627"}
+{"time": "2026-04-19T20:27:50", "agent_id": "agent_4bc9692c51c9", "type": "income", "amount": 41.6585, "source": "submitted"}
+{"time": "2026-04-19T20:27:50", "agent_id": "agent_c62d8040ea0d", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:50", "agent_id": "agent_c62d8040ea0d", "type": "income", "amount": 5.0915, "source": "saas_subscription_weather_widget"}
+{"time": "2026-04-19T20:27:50", "agent_id": "agent_1dad15faa0f1", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:50", "agent_id": "agent_1dad15faa0f1", "type": "income", "amount": 12.7415, "source": "saas_subscription_invoice_gen"}
+{"time": "2026-04-19T20:27:51", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 526832370128302208, overshot 526832370128302208'}"}
+{"time": "2026-04-19T20:27:53", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:53", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:53", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 39.117000000000004, "source": "bounty_CVE-1999-0107"}
+{"time": "2026-04-19T20:27:53", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 39.117000000000004, "source": "submitted"}
+{"time": "2026-04-19T20:27:53", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:53", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 1.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:53", "agent_id": "agent_ac85b1838393", "type": "income", "amount": 51.5695, "source": "freelance_gig_db_migration"}
+{"time": "2026-04-19T20:27:53", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:53", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:54", "agent_id": "agent_c62d8040ea0d", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:54", "agent_id": "agent_c62d8040ea0d", "type": "income", "amount": 3.3915, "source": "saas_subscription_email_validator"}
+{"time": "2026-04-19T20:27:54", "agent_id": "agent_1dad15faa0f1", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:54", "agent_id": "agent_1dad15faa0f1", "type": "income", "amount": 4.2415, "source": "saas_subscription_fx_converter"}
+{"time": "2026-04-19T20:27:54", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:54", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:55", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 565875979973921152, overshot 565875979973921152'}"}
+{"time": "2026-04-19T20:27:55", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 79.5345, "source": "bounty_CVE-2012-4287"}
+{"time": "2026-04-19T20:27:55", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 79.5345, "source": "submitted"}
+{"time": "2026-04-19T20:27:55", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:55", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 1.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:55", "agent_id": "agent_ac85b1838393", "type": "income", "amount": 67.2945, "source": "freelance_gig_data_pipeline"}
+{"time": "2026-04-19T20:27:55", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:55", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:55", "agent_id": "agent_c62d8040ea0d", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:55", "agent_id": "agent_c62d8040ea0d", "type": "income", "amount": 3.3915, "source": "saas_subscription_email_validator"}
+{"time": "2026-04-19T20:27:55", "agent_id": "agent_1dad15faa0f1", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:55", "agent_id": "agent_1dad15faa0f1", "type": "income", "amount": 4.2415, "source": "saas_subscription_fx_converter"}
+{"time": "2026-04-19T20:27:56", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 632350810541058432, overshot 632350810541058432'}"}
+{"time": "2026-04-19T20:27:58", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:58", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:58", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:58", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 1.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:58", "agent_id": "agent_ac85b1838393", "type": "income", "amount": 67.73649999999999, "source": "freelance_gig_build_api"}
+{"time": "2026-04-19T20:27:58", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:58", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:59", "agent_id": "agent_4bc9692c51c9", "type": "income", "amount": 0.544, "source": "bounty_CVE-2000-0045"}
+{"time": "2026-04-19T20:27:59", "agent_id": "agent_4bc9692c51c9", "type": "income", "amount": 0.544, "source": "submitted"}
+{"time": "2026-04-19T20:27:59", "agent_id": "agent_c62d8040ea0d", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:59", "agent_id": "agent_c62d8040ea0d", "type": "income", "amount": 4.2415, "source": "saas_subscription_fx_converter"}
+{"time": "2026-04-19T20:27:59", "agent_id": "agent_1dad15faa0f1", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:59", "agent_id": "agent_1dad15faa0f1", "type": "income", "amount": 5.9415000000000004, "source": "saas_subscription_pdf_merger"}
+{"time": "2026-04-19T20:27:59", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:27:59", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:00", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:00", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 1.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:00", "agent_id": "agent_ac85b1838393", "type": "income", "amount": 35.2325, "source": "freelance_gig_fix_bug"}
+{"time": "2026-04-19T20:28:00", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:00", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:00", "agent_id": "agent_c62d8040ea0d", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:00", "agent_id": "agent_c62d8040ea0d", "type": "income", "amount": 5.9415000000000004, "source": "saas_subscription_pdf_merger"}
+{"time": "2026-04-19T20:28:00", "agent_id": "agent_1dad15faa0f1", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:00", "agent_id": "agent_1dad15faa0f1", "type": "income", "amount": 6.7915, "source": "saas_subscription_img_compress"}
+{"time": "2026-04-19T20:28:00", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 654795634185997952, overshot 654795634185997952'}"}
+{"time": "2026-04-19T20:28:01", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 668421899901801472, overshot 668421899901801472'}"}
+{"time": "2026-04-19T20:28:03", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:03", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:04", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 16.200999999999997, "source": "bounty_CVE-1999-0652"}
+{"time": "2026-04-19T20:28:04", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 16.200999999999997, "source": "submitted"}
+{"time": "2026-04-19T20:28:04", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:04", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 1.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:04", "agent_id": "agent_ac85b1838393", "type": "income", "amount": 74.171, "source": "freelance_gig_db_migration"}
+{"time": "2026-04-19T20:28:04", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:04", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:04", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:04", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:04", "agent_id": "agent_4bc9692c51c9", "type": "income", "amount": 73.015, "source": "bounty_CVE-1999-0862"}
+{"time": "2026-04-19T20:28:04", "agent_id": "agent_4bc9692c51c9", "type": "income", "amount": 73.015, "source": "submitted"}
+{"time": "2026-04-19T20:28:04", "agent_id": "agent_c62d8040ea0d", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:04", "agent_id": "agent_c62d8040ea0d", "type": "income", "amount": 3.3915, "source": "saas_subscription_email_validator"}
+{"time": "2026-04-19T20:28:04", "agent_id": "agent_1dad15faa0f1", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:04", "agent_id": "agent_1dad15faa0f1", "type": "income", "amount": 8.4915, "source": "saas_subscription_url_shortener"}
+{"time": "2026-04-19T20:28:05", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 73.6355, "source": "bounty_CVE-2005-1102"}
+{"time": "2026-04-19T20:28:05", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 73.6355, "source": "submitted"}
+{"time": "2026-04-19T20:28:05", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:05", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 1.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:05", "agent_id": "agent_ac85b1838393", "type": "income", "amount": 45.849, "source": "freelance_gig_scraper"}
+{"time": "2026-04-19T20:28:05", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:05", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:05", "agent_id": "agent_4bc9692c51c9", "type": "income", "amount": 57.613, "source": "bounty_CVE-1999-1188"}
+{"time": "2026-04-19T20:28:05", "agent_id": "agent_4bc9692c51c9", "type": "income", "amount": 57.613, "source": "submitted"}
+{"time": "2026-04-19T20:28:05", "agent_id": "agent_c62d8040ea0d", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:05", "agent_id": "agent_c62d8040ea0d", "type": "income", "amount": 6.7915, "source": "saas_subscription_img_compress"}
+{"time": "2026-04-19T20:28:05", "agent_id": "agent_1dad15faa0f1", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:05", "agent_id": "agent_1dad15faa0f1", "type": "income", "amount": 5.9415000000000004, "source": "saas_subscription_pdf_merger"}
+{"time": "2026-04-19T20:28:06", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 743558331589368832, overshot 743558331589368832'}"}
+{"time": "2026-04-19T20:28:06", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 834771969928685184, overshot 834771969928685184'}"}
+{"time": "2026-04-19T20:28:09", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:09", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:09", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 0.306, "source": "bounty_CVE-2024-42816"}
+{"time": "2026-04-19T20:28:09", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 0.306, "source": "submitted"}
+{"time": "2026-04-19T20:28:09", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:09", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 1.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:09", "agent_id": "agent_ac85b1838393", "type": "income", "amount": 41.6755, "source": "freelance_gig_script"}
+{"time": "2026-04-19T20:28:09", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:09", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:09", "agent_id": "agent_c62d8040ea0d", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:09", "agent_id": "agent_c62d8040ea0d", "type": "income", "amount": 8.4915, "source": "saas_subscription_url_shortener"}
+{"time": "2026-04-19T20:28:09", "agent_id": "agent_1dad15faa0f1", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:09", "agent_id": "agent_1dad15faa0f1", "type": "income", "amount": 7.6415, "source": "saas_subscription_screenshot_api"}
+{"time": "2026-04-19T20:28:09", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:09", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:10", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:10", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 1.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:10", "agent_id": "agent_ac85b1838393", "type": "income", "amount": 31.705, "source": "freelance_gig_bot"}
+{"time": "2026-04-19T20:28:10", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:10", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:10", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 851368341409230592, overshot 851368341409230592'}"}
+{"time": "2026-04-19T20:28:11", "agent_id": "agent_4bc9692c51c9", "type": "income", "amount": 71.6635, "source": "bounty_CVE-2009-1190"}
+{"time": "2026-04-19T20:28:11", "agent_id": "agent_4bc9692c51c9", "type": "income", "amount": 71.6635, "source": "submitted"}
+{"time": "2026-04-19T20:28:11", "agent_id": "agent_c62d8040ea0d", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:11", "agent_id": "agent_c62d8040ea0d", "type": "income", "amount": 5.0915, "source": "saas_subscription_weather_widget"}
+{"time": "2026-04-19T20:28:11", "agent_id": "agent_1dad15faa0f1", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:11", "agent_id": "agent_1dad15faa0f1", "type": "income", "amount": 3.3915, "source": "saas_subscription_email_validator"}
+{"time": "2026-04-19T20:28:12", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 903502149100918912, overshot 903502149100918912'}"}
+{"time": "2026-04-19T20:28:13", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:13", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:15", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:15", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:15", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 2.771, "source": "bounty_CVE-2012-5616"}
+{"time": "2026-04-19T20:28:15", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 2.771, "source": "submitted"}
+{"time": "2026-04-19T20:28:15", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:16", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 1.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:16", "agent_id": "agent_ac85b1838393", "type": "income", "amount": 34.5355, "source": "freelance_gig_fix_bug"}
+{"time": "2026-04-19T20:28:16", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:16", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:16", "agent_id": "agent_4bc9692c51c9", "type": "income", "amount": 17.391000000000002, "source": "bounty_CVE-2001-1379"}
+{"time": "2026-04-19T20:28:16", "agent_id": "agent_4bc9692c51c9", "type": "income", "amount": 17.391000000000002, "source": "submitted"}
+{"time": "2026-04-19T20:28:16", "agent_id": "agent_c62d8040ea0d", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:16", "agent_id": "agent_c62d8040ea0d", "type": "income", "amount": 12.7415, "source": "saas_subscription_invoice_gen"}
+{"time": "2026-04-19T20:28:16", "agent_id": "agent_1dad15faa0f1", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:16", "agent_id": "agent_1dad15faa0f1", "type": "income", "amount": 5.9415000000000004, "source": "saas_subscription_pdf_merger"}
+{"time": "2026-04-19T20:28:16", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 69.955, "source": "bounty_CVE-2009-2629"}
+{"time": "2026-04-19T20:28:16", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 69.955, "source": "submitted"}
+{"time": "2026-04-19T20:28:16", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:16", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 1.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:16", "agent_id": "agent_ac85b1838393", "type": "income", "amount": 49.070499999999996, "source": "freelance_gig_landing_page"}
+{"time": "2026-04-19T20:28:16", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:16", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:16", "agent_id": "agent_c62d8040ea0d", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:16", "agent_id": "agent_c62d8040ea0d", "type": "income", "amount": 12.7415, "source": "saas_subscription_invoice_gen"}
+{"time": "2026-04-19T20:28:16", "agent_id": "agent_1dad15faa0f1", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:16", "agent_id": "agent_1dad15faa0f1", "type": "income", "amount": 3.3915, "source": "saas_subscription_email_validator"}
+{"time": "2026-04-19T20:28:17", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 930076144174889984, overshot 930076144174889984'}"}
+{"time": "2026-04-19T20:28:18", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 988345755726911104, overshot 988345755726911104'}"}
+{"time": "2026-04-19T20:28:20", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:20", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:20", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:21", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 1.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:21", "agent_id": "agent_ac85b1838393", "type": "income", "amount": 124.78, "source": "freelance_gig_build_api"}
+{"time": "2026-04-19T20:28:21", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:21", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:21", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:21", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:21", "agent_id": "agent_c62d8040ea0d", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:21", "agent_id": "agent_c62d8040ea0d", "type": "income", "amount": 3.3915, "source": "saas_subscription_email_validator"}
+{"time": "2026-04-19T20:28:21", "agent_id": "agent_1dad15faa0f1", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:21", "agent_id": "agent_1dad15faa0f1", "type": "income", "amount": 8.4915, "source": "saas_subscription_url_shortener"}
+{"time": "2026-04-19T20:28:21", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:21", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 1.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:21", "agent_id": "agent_ac85b1838393", "type": "income", "amount": 51.3315, "source": "freelance_gig_bot"}
+{"time": "2026-04-19T20:28:21", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:21", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:22", "agent_id": "agent_4bc9692c51c9", "type": "income", "amount": 69.836, "source": "bounty_CVE-2007-0404"}
+{"time": "2026-04-19T20:28:22", "agent_id": "agent_4bc9692c51c9", "type": "income", "amount": 69.836, "source": "submitted"}
+{"time": "2026-04-19T20:28:22", "agent_id": "agent_c62d8040ea0d", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:22", "agent_id": "agent_c62d8040ea0d", "type": "income", "amount": 5.9415000000000004, "source": "saas_subscription_pdf_merger"}
+{"time": "2026-04-19T20:28:22", "agent_id": "agent_1dad15faa0f1", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:22", "agent_id": "agent_1dad15faa0f1", "type": "income", "amount": 3.3915, "source": "saas_subscription_email_validator"}
+{"time": "2026-04-19T20:28:22", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 1027169626040341504, overshot 1027169626040341504'}"}
+{"time": "2026-04-19T20:28:23", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 1084082164877090176, overshot 1084082164877090176'}"}
+{"time": "2026-04-19T20:28:25", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:25", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:26", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:26", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:26", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 64.396, "source": "bounty_CVE-2001-0201"}
+{"time": "2026-04-19T20:28:26", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 64.396, "source": "submitted"}
+{"time": "2026-04-19T20:28:26", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:26", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 56.94149999999999, "source": "bounty_CVE-2014-0722"}
+{"time": "2026-04-19T20:28:26", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 56.94149999999999, "source": "submitted"}
+{"time": "2026-04-19T20:28:26", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:26", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 1.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:26", "agent_id": "agent_ac85b1838393", "type": "income", "amount": 44.982, "source": "freelance_gig_scraper"}
+{"time": "2026-04-19T20:28:26", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:26", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:26", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 1.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:26", "agent_id": "agent_ac85b1838393", "type": "income", "amount": 42.9505, "source": "freelance_gig_landing_page"}
+{"time": "2026-04-19T20:28:26", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:26", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:26", "agent_id": "agent_c62d8040ea0d", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:26", "agent_id": "agent_c62d8040ea0d", "type": "income", "amount": 12.7415, "source": "saas_subscription_invoice_gen"}
+{"time": "2026-04-19T20:28:26", "agent_id": "agent_1dad15faa0f1", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:26", "agent_id": "agent_1dad15faa0f1", "type": "income", "amount": 12.7415, "source": "saas_subscription_invoice_gen"}
+{"time": "2026-04-19T20:28:27", "agent_id": "agent_4bc9692c51c9", "type": "income", "amount": 26.8005, "source": "bounty_CVE-2015-7528"}
+{"time": "2026-04-19T20:28:27", "agent_id": "agent_4bc9692c51c9", "type": "income", "amount": 26.8005, "source": "submitted"}
+{"time": "2026-04-19T20:28:27", "agent_id": "agent_c62d8040ea0d", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:27", "agent_id": "agent_c62d8040ea0d", "type": "income", "amount": 3.3915, "source": "saas_subscription_email_validator"}
+{"time": "2026-04-19T20:28:27", "agent_id": "agent_1dad15faa0f1", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:27", "agent_id": "agent_1dad15faa0f1", "type": "income", "amount": 8.4915, "source": "saas_subscription_url_shortener"}
+{"time": "2026-04-19T20:28:28", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 1185242035448091136, overshot 1185242035448091136'}"}
+{"time": "2026-04-19T20:28:28", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 1203845039359938048, overshot 1203845039359938048'}"}
+{"time": "2026-04-19T20:28:31", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:31", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:31", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:31", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 1.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:31", "agent_id": "agent_ac85b1838393", "type": "income", "amount": 27.455, "source": "freelance_gig_fix_bug"}
+{"time": "2026-04-19T20:28:31", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:31", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:32", "agent_id": "agent_4bc9692c51c9", "type": "income", "amount": 81.6765, "source": "bounty_CVE-2008-3687"}
+{"time": "2026-04-19T20:28:32", "agent_id": "agent_4bc9692c51c9", "type": "income", "amount": 81.6765, "source": "submitted"}
+{"time": "2026-04-19T20:28:32", "agent_id": "agent_c62d8040ea0d", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:32", "agent_id": "agent_c62d8040ea0d", "type": "income", "amount": 5.9415000000000004, "source": "saas_subscription_pdf_merger"}
+{"time": "2026-04-19T20:28:32", "agent_id": "agent_1dad15faa0f1", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:32", "agent_id": "agent_1dad15faa0f1", "type": "income", "amount": 5.0915, "source": "saas_subscription_weather_widget"}
+{"time": "2026-04-19T20:28:33", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 1261184983660393472, overshot 1261184983660393472'}"}
+{"time": "2026-04-19T20:28:36", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:36", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:36", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:36", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 1.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:36", "agent_id": "agent_ac85b1838393", "type": "income", "amount": 54.74849999999999, "source": "freelance_gig_data_pipeline"}
+{"time": "2026-04-19T20:28:36", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:36", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:36", "agent_id": "agent_c62d8040ea0d", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:36", "agent_id": "agent_c62d8040ea0d", "type": "income", "amount": 4.2415, "source": "saas_subscription_fx_converter"}
+{"time": "2026-04-19T20:28:36", "agent_id": "agent_1dad15faa0f1", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:36", "agent_id": "agent_1dad15faa0f1", "type": "income", "amount": 6.7915, "source": "saas_subscription_img_compress"}
+{"time": "2026-04-19T20:28:38", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 1279872502776928000, overshot 1279872502776928000'}"}
+{"time": "2026-04-19T20:28:41", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:41", "agent_id": "agent_4a1c59ed79bc", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:42", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 41.896499999999996, "source": "bounty_CVE-2004-1559"}
+{"time": "2026-04-19T20:28:42", "agent_id": "agent_4a1c59ed79bc", "type": "income", "amount": 41.896499999999996, "source": "submitted"}
+{"time": "2026-04-19T20:28:42", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:48", "agent_id": "agent_ac85b1838393", "type": "expense", "amount": 1.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:48", "agent_id": "agent_ac85b1838393", "type": "income", "amount": 55.556, "source": "freelance_gig_db_migration"}
+{"time": "2026-04-19T20:28:48", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.00028, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:48", "agent_id": "agent_4bc9692c51c9", "type": "expense", "amount": 0.5, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:48", "agent_id": "agent_4bc9692c51c9", "type": "income", "amount": 19.55, "source": "bounty_CVE-2015-7528"}
+{"time": "2026-04-19T20:28:48", "agent_id": "agent_4bc9692c51c9", "type": "income", "amount": 19.55, "source": "submitted"}
+{"time": "2026-04-19T20:28:48", "agent_id": "agent_c62d8040ea0d", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:48", "agent_id": "agent_c62d8040ea0d", "type": "income", "amount": 5.0915, "source": "saas_subscription_weather_widget"}
+{"time": "2026-04-19T20:28:48", "agent_id": "agent_1dad15faa0f1", "type": "expense", "amount": 2.0, "source": "credit_spend"}
+{"time": "2026-04-19T20:28:48", "agent_id": "agent_1dad15faa0f1", "type": "income", "amount": 3.3915, "source": "saas_subscription_email_validator"}
+{"time": "2026-04-19T20:28:50", "agent_id": "SYSTEM", "type": "payout", "amount": 0, "source": "payout_failed_{'code': -32000, 'message': 'insufficient funds for gas * price + value: balance 0, tx cost 1332977027962459136, overshot 1332977027962459136'}"}

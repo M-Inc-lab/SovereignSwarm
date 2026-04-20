@@ -1,0 +1,227 @@
+[BOOTSTRAP] $60 seed capital loaded — ready to spawn agents
+[2026-04-19T20:26:30] Sovereign initialised
+[2026-04-19T20:26:30] Starting SovereignSwarm — 3 initial agents
+[2026-04-19T20:26:30] SPAWNED SecAgent (streams: ['security_audit', 'bounty'])
+  [BugBountyHunter] ✓ Bounty awarded: $23.97 for CVE-2008-3687
+[2026-04-19T20:26:31]   → SecAgent: earned $23.97 via submitted
+  [gas-estimate] RPC unreachable (https://bsc-dataseed.binance.org/) — assuming $0 fee: name '_SENDER_WALLET' is not defined
+[2026-04-19T20:26:35] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:26:35] === Cycle 1 | Alive: 1 | Master: $17.19 ===
+  [BugBountyHunter] ✓ Bounty awarded: $24.38 for CVE-1999-0862
+[2026-04-19T20:26:38]   → SecAgent: earned $24.38 via submitted
+  [gas-estimate] RPC unreachable (https://bsc-dataseed.binance.org/) — assuming $0 fee: name '_SENDER_WALLET' is not defined
+[2026-04-19T20:26:40] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:26:40] === Cycle 2 | Alive: 1 | Master: $24.50 ===
+  [BugBountyHunter] ✓ Bounty awarded: $92.56 for CVE-2008-3687
+[2026-04-19T20:26:50]   → SecAgent: earned $92.56 via submitted
+  [gas-estimate] RPC unreachable (https://bsc-dataseed.binance.org/) — assuming $0 fee: name '_SENDER_WALLET' is not defined
+[2026-04-19T20:26:51] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:26:51] === Cycle 3 | Alive: 1 | Master: $52.27 ===
+  [BugBountyHunter] ✓ Bounty awarded: $49.14 for CVE-2005-1102
+[2026-04-19T20:26:55]   → SecAgent: earned $49.14 via submitted
+  [gas-estimate] RPC unreachable (https://bsc-dataseed.binance.org/) — assuming $0 fee: name '_SENDER_WALLET' is not defined
+[2026-04-19T20:26:56] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:26:56] === Cycle 4 | Alive: 1 | Master: $91.54 ===
+[2026-04-19T20:26:59] SPAWNED DevAgent (streams: ['freelance_dev', 'api_aggregation'])
+  [BugBountyHunter] ✓ Bounty awarded: $13.25 for CVE-2015-5305
+[2026-04-19T20:27:00]   → SecAgent: earned $13.25 via submitted
+  [FreelanceCoder] Found job: Senior Independent AI Engineer / Architect @ A.Team
+  [FreelanceCoder] ✓ Delivered: Automation Script → $21.44
+[2026-04-19T20:27:00]   ⚠ DevAgent error: name 'stream' is not defined
+  [gas-estimate] RPC unreachable (https://bsc-dataseed.binance.org/) — assuming $0 fee: name '_SENDER_WALLET' is not defined
+[2026-04-19T20:27:01] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:27:01] === Cycle 5 | Alive: 2 | Master: $48.73 ===
+[2026-04-19T20:27:04] SPAWNED SecAgent (streams: ['security_audit', 'bounty'])
+  [BugBountyHunter] ✓ Bounty awarded: $57.61 for CVE-2014-5277
+[2026-04-19T20:27:05]   → SecAgent: earned $57.61 via submitted
+  [FreelanceCoder] Found job: Customer Retention Manager @ AutoHDR
+  [FreelanceCoder] ✓ Delivered: Data Pipeline — pandas/jupyter → $49.91
+[2026-04-19T20:27:05]   ⚠ DevAgent error: name 'stream' is not defined
+  [BugBountyHunter] ✓ Bounty awarded: $21.28 for CVE-2008-3687
+[2026-04-19T20:27:06]   → SecAgent: earned $21.28 via submitted
+  [gas-estimate] RPC unreachable (https://bsc-dataseed.binance.org/) — assuming $0 fee: name '_SENDER_WALLET' is not defined
+[2026-04-19T20:27:07] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:27:07] === Cycle 6 | Alive: 3 | Master: $60.64 ===
+[2026-04-19T20:27:10] SPAWNED SaaSAgent (streams: ['saas', 'subscription'])
+  [BugBountyHunter] ✓ Bounty awarded: $57.60 for CVE-2014-1893
+[2026-04-19T20:27:11]   → SecAgent: earned $57.60 via submitted
+  [FreelanceCoder] Found job: Senior Full-stack React Developer @ Lemon.io
+  [FreelanceCoder] ✓ Delivered: Database Migration → $109.88
+[2026-04-19T20:27:11]   ⚠ DevAgent error: name 'stream' is not defined
+  [BugBountyHunter] ✓ Bounty awarded: $77.69 for CVE-2009-3896
+[2026-04-19T20:27:12]   → SecAgent: earned $77.69 via submitted
+  [CodeMerchant] Built: Currency Converter @ $4.99/mo | link: no_stripe_key
+[2026-04-19T20:27:12]   → SaaSAgent: ready_to_sell
+  [gas-estimate] RPC unreachable (https://bsc-dataseed.binance.org/) — assuming $0 fee: name '_SENDER_WALLET' is not defined
+[2026-04-19T20:27:13] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:27:13] === Cycle 7 | Alive: 5 | Master: $47.17 ===
+[2026-04-19T20:27:17]   → SecAgent: research_only
+  [FreelanceCoder] Found job: Customer Retention Manager @ AutoHDR
+  [FreelanceCoder] ✓ Delivered: Automation Script → $22.29
+[2026-04-19T20:27:17]   ⚠ DevAgent error: name 'stream' is not defined
+  [BugBountyHunter] ✓ Bounty awarded: $95.66 for CVE-2005-4702
+[2026-04-19T20:27:17]   → SecAgent: earned $95.66 via submitted
+  [CodeMerchant] Built: URL Shortener API @ $9.99/mo | link: no_stripe_key
+[2026-04-19T20:27:17]   → SaaSAgent: ready_to_sell
+  [CodeMerchant] Built: Currency Converter @ $4.99/mo | link: no_stripe_key
+[2026-04-19T20:27:17]   → SaaSAgent: ready_to_sell
+  [gas-estimate] RPC unreachable (https://bsc-dataseed.binance.org/) — assuming $0 fee: name '_SENDER_WALLET' is not defined
+[2026-04-19T20:27:19] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:27:19] === Cycle 8 | Alive: 5 | Master: $162.59 ===
+[2026-04-19T20:27:22]   → SecAgent: research_only
+  [FreelanceCoder] Found job: Customer Retention Manager @ AutoHDR
+  [FreelanceCoder] ✓ Delivered: Landing Page — HTML/CSS/JS → $77.68
+[2026-04-19T20:27:22]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:27:22]   → SecAgent: research_only
+  [CodeMerchant] Built: Invoice Generator @ $14.99/mo | link: no_stripe_key
+[2026-04-19T20:27:22]   → SaaSAgent: ready_to_sell
+  [CodeMerchant] Built: PDF Merger API @ $6.99/mo | link: no_stripe_key
+[2026-04-19T20:27:22]   → SaaSAgent: ready_to_sell
+  [gas-estimate] RPC unreachable (https://bsc-dataseed.binance.org/) — assuming $0 fee: name '_SENDER_WALLET' is not defined
+[2026-04-19T20:27:23] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:27:23] === Cycle 9 | Alive: 5 | Master: $189.49 ===
+  [BugBountyHunter] ✓ Bounty awarded: $46.22 for CVE-2005-4500
+[2026-04-19T20:27:27]   → SecAgent: earned $46.22 via submitted
+  [FreelanceCoder] Found job: Senior Independent AI Engineer / Architect @ A.Team
+  [FreelanceCoder] ✓ Delivered: Telegram/Discord Bot → $52.37
+[2026-04-19T20:27:27]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:27:27]   → SecAgent: research_only
+  [CodeMerchant] Built: Email Validator @ $3.99/mo | link: no_stripe_key
+[2026-04-19T20:27:27]   → SaaSAgent: ready_to_sell
+  [CodeMerchant] Built: Screenshot API @ $8.99/mo | link: no_stripe_key
+[2026-04-19T20:27:27]   → SaaSAgent: ready_to_sell
+  [gas-estimate] RPC unreachable (https://bsc-dataseed.binance.org/) — assuming $0 fee: name '_SENDER_WALLET' is not defined
+[2026-04-19T20:27:29] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:27:29] === Cycle 10 | Alive: 5 | Master: $225.42 ===
+[2026-04-19T20:27:32]   → SecAgent: research_only
+  [FreelanceCoder] Found job: Senior Full-stack React Developer @ Lemon.io
+  [FreelanceCoder] ✓ Delivered: Database Migration → $101.95
+[2026-04-19T20:27:32]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:27:32]   → SecAgent: research_only
+  [CodeMerchant] Built: URL Shortener API @ $9.99/mo | link: no_stripe_key
+[2026-04-19T20:27:32]   → SaaSAgent: ready_to_sell
+  [CodeMerchant] Built: Email Validator @ $3.99/mo | link: no_stripe_key
+[2026-04-19T20:27:32]   → SaaSAgent: ready_to_sell
+  [gas-estimate] RPC unreachable (https://bsc-dataseed.binance.org/) — assuming $0 fee: name '_SENDER_WALLET' is not defined
+[2026-04-19T20:27:33] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:27:33] === Cycle 11 | Alive: 5 | Master: $250.81 ===
+  [BugBountyHunter] ✓ Bounty awarded: $13.14 for CVE-1999-0652
+[2026-04-19T20:27:37]   → SecAgent: earned $13.14 via submitted
+  [FreelanceCoder] Found job: Senior Independent AI Engineer / Architect @ A.Team
+  [FreelanceCoder] ✓ Delivered: Database Migration → $69.02
+[2026-04-19T20:27:37]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:27:37]   → SecAgent: research_only
+  [CodeMerchant] Built: Invoice Generator @ $14.99/mo | link: no_stripe_key
+[2026-04-19T20:27:37]   → SaaSAgent: ready_to_sell
+  [CodeMerchant] Built: URL Shortener API @ $9.99/mo | link: no_stripe_key
+[2026-04-19T20:27:37]   → SaaSAgent: ready_to_sell
+  [gas-estimate] RPC unreachable (https://bsc-dataseed.binance.org/) — assuming $0 fee: name '_SENDER_WALLET' is not defined
+[2026-04-19T20:27:39] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:27:39] === Cycle 12 | Alive: 5 | Master: $288.20 ===
+[2026-04-19T20:27:42]   → SecAgent: research_only
+  [FreelanceCoder] Found job: Customer Retention Manager @ AutoHDR
+  [FreelanceCoder] ✓ Delivered: Telegram/Discord Bot → $41.66
+[2026-04-19T20:27:42]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:27:42]   → SecAgent: research_only
+  [CodeMerchant] Built: Image Compressor API @ $7.99/mo | link: no_stripe_key
+[2026-04-19T20:27:42]   → SaaSAgent: ready_to_sell
+  [CodeMerchant] Built: Image Compressor API @ $7.99/mo | link: no_stripe_key
+[2026-04-19T20:27:42]   → SaaSAgent: ready_to_sell
+  [gas-estimate] RPC unreachable (https://bsc-dataseed.binance.org/) — assuming $0 fee: name '_SENDER_WALLET' is not defined
+[2026-04-19T20:27:50] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:27:50] === Cycle 13 | Alive: 5 | Master: $309.41 ===
+  [BugBountyHunter] ✓ Bounty awarded: $46.02 for CVE-1999-0107
+[2026-04-19T20:27:53]   → SecAgent: earned $46.02 via submitted
+  [FreelanceCoder] Found job: Customer Support Representative @ AutoHDR
+  [FreelanceCoder] ✓ Delivered: Database Migration → $60.67
+[2026-04-19T20:27:53]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:27:54]   → SecAgent: research_only
+  [CodeMerchant] Built: Email Validator @ $3.99/mo | link: no_stripe_key
+[2026-04-19T20:27:54]   → SaaSAgent: ready_to_sell
+  [CodeMerchant] Built: Currency Converter @ $4.99/mo | link: no_stripe_key
+[2026-04-19T20:27:54]   → SaaSAgent: ready_to_sell
+  [gas-estimate] RPC unreachable (https://bsc-dataseed.binance.org/) — assuming $0 fee: name '_SENDER_WALLET' is not defined
+[2026-04-19T20:27:55] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:27:55] === Cycle 14 | Alive: 5 | Master: $351.52 ===
+[2026-04-19T20:27:58]   → SecAgent: research_only
+  [FreelanceCoder] Found job: Senior Full-stack React Developer @ Lemon.io
+  [FreelanceCoder] ✓ Delivered: REST API Build — Flask/FastAPI → $79.69
+[2026-04-19T20:27:58]   ⚠ DevAgent error: name 'stream' is not defined
+  [BugBountyHunter] ✓ Bounty awarded: $0.64 for CVE-2000-0045
+[2026-04-19T20:27:59]   → SecAgent: earned $0.64 via submitted
+  [CodeMerchant] Built: Currency Converter @ $4.99/mo | link: no_stripe_key
+[2026-04-19T20:27:59]   → SaaSAgent: ready_to_sell
+  [CodeMerchant] Built: PDF Merger API @ $6.99/mo | link: no_stripe_key
+[2026-04-19T20:27:59]   → SaaSAgent: ready_to_sell
+  [gas-estimate] RPC unreachable (https://bsc-dataseed.binance.org/) — assuming $0 fee: name '_SENDER_WALLET' is not defined
+[2026-04-19T20:28:00] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:28:00] === Cycle 15 | Alive: 5 | Master: $415.22 ===
+  [BugBountyHunter] ✓ Bounty awarded: $19.06 for CVE-1999-0652
+[2026-04-19T20:28:04]   → SecAgent: earned $19.06 via submitted
+  [FreelanceCoder] Found job: Customer Support Representative @ AutoHDR
+  [FreelanceCoder] ✓ Delivered: Database Migration → $87.26
+[2026-04-19T20:28:04]   ⚠ DevAgent error: name 'stream' is not defined
+  [BugBountyHunter] ✓ Bounty awarded: $85.90 for CVE-1999-0862
+[2026-04-19T20:28:04]   → SecAgent: earned $85.90 via submitted
+  [CodeMerchant] Built: Email Validator @ $3.99/mo | link: no_stripe_key
+[2026-04-19T20:28:04]   → SaaSAgent: ready_to_sell
+  [CodeMerchant] Built: URL Shortener API @ $9.99/mo | link: no_stripe_key
+[2026-04-19T20:28:04]   → SaaSAgent: ready_to_sell
+  [gas-estimate] RPC unreachable (https://bsc-dataseed.binance.org/) — assuming $0 fee: name '_SENDER_WALLET' is not defined
+[2026-04-19T20:28:06] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:28:06] === Cycle 16 | Alive: 5 | Master: $518.55 ===
+  [BugBountyHunter] ✓ Bounty awarded: $0.36 for CVE-2024-42816
+[2026-04-19T20:28:09]   → SecAgent: earned $0.36 via submitted
+  [FreelanceCoder] Found job: Senior Independent Software Developer @ A.Team
+  [FreelanceCoder] ✓ Delivered: Automation Script → $49.03
+[2026-04-19T20:28:09]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:28:09]   → SecAgent: research_only
+  [CodeMerchant] Built: URL Shortener API @ $9.99/mo | link: no_stripe_key
+[2026-04-19T20:28:09]   → SaaSAgent: ready_to_sell
+  [CodeMerchant] Built: Screenshot API @ $8.99/mo | link: no_stripe_key
+[2026-04-19T20:28:09]   → SaaSAgent: ready_to_sell
+  [gas-estimate] RPC unreachable (https://bsc-dataseed.binance.org/) — assuming $0 fee: name '_SENDER_WALLET' is not defined
+[2026-04-19T20:28:10] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:28:10] === Cycle 17 | Alive: 5 | Master: $534.46 ===
+  [BugBountyHunter] ✓ Bounty awarded: $82.30 for CVE-2009-2629
+[2026-04-19T20:28:16]   → SecAgent: earned $82.30 via submitted
+  [FreelanceCoder] Found job: Customer Support Representative @ AutoHDR
+  [FreelanceCoder] ✓ Delivered: Landing Page — HTML/CSS/JS → $57.73
+[2026-04-19T20:28:16]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:28:16]   → SecAgent: research_only
+  [CodeMerchant] Built: Invoice Generator @ $14.99/mo | link: no_stripe_key
+[2026-04-19T20:28:16]   → SaaSAgent: ready_to_sell
+  [CodeMerchant] Built: Email Validator @ $3.99/mo | link: no_stripe_key
+[2026-04-19T20:28:16]   → SaaSAgent: ready_to_sell
+  [gas-estimate] RPC unreachable (https://bsc-dataseed.binance.org/) — assuming $0 fee: name '_SENDER_WALLET' is not defined
+[2026-04-19T20:28:18] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:28:18] === Cycle 18 | Alive: 5 | Master: $613.95 ===
+[2026-04-19T20:28:21]   → SecAgent: research_only
+  [FreelanceCoder] Found job: Senior Full-stack React Developer @ Lemon.io
+  [FreelanceCoder] ✓ Delivered: Telegram/Discord Bot → $60.39
+[2026-04-19T20:28:21]   ⚠ DevAgent error: name 'stream' is not defined
+  [BugBountyHunter] ✓ Bounty awarded: $82.16 for CVE-2007-0404
+[2026-04-19T20:28:22]   → SecAgent: earned $82.16 via submitted
+  [CodeMerchant] Built: PDF Merger API @ $6.99/mo | link: no_stripe_key
+[2026-04-19T20:28:22]   → SaaSAgent: ready_to_sell
+  [CodeMerchant] Built: Email Validator @ $3.99/mo | link: no_stripe_key
+[2026-04-19T20:28:22]   → SaaSAgent: ready_to_sell
+  [gas-estimate] RPC unreachable (https://bsc-dataseed.binance.org/) — assuming $0 fee: name '_SENDER_WALLET' is not defined
+[2026-04-19T20:28:23] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:28:23] === Cycle 19 | Alive: 5 | Master: $673.42 ===
+  [BugBountyHunter] ✓ Bounty awarded: $66.99 for CVE-2014-0722
+[2026-04-19T20:28:26]   → SecAgent: earned $66.99 via submitted
+  [FreelanceCoder] Found job: Senior Full-stack React Developer @ Lemon.io
+  [FreelanceCoder] ✓ Delivered: Landing Page — HTML/CSS/JS → $50.53
+[2026-04-19T20:28:26]   ⚠ DevAgent error: name 'stream' is not defined
+  [BugBountyHunter] ✓ Bounty awarded: $31.53 for CVE-2015-7528
+[2026-04-19T20:28:27]   → SecAgent: earned $31.53 via submitted
+  [CodeMerchant] Built: Email Validator @ $3.99/mo | link: no_stripe_key
+[2026-04-19T20:28:27]   → SaaSAgent: ready_to_sell
+  [CodeMerchant] Built: URL Shortener API @ $9.99/mo | link: no_stripe_key
+[2026-04-19T20:28:27]   → SaaSAgent: ready_to_sell
+  [gas-estimate] RPC unreachable (https://bsc-dataseed.binance.org/) — assuming $0 fee: name '_SENDER_WALLET' is not defined
+[2026-04-19T20:28:28] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:28:28] === Cycle 20 | Alive: 5 | Master: $747.82 ===
+[2026-04-19T20:28:31] SovereignSwarm session complete
+[2026-04-19T20:28:31] Final status: {'master_balance': 752.6614999999999, 'total_agents': 5, 'alive_agents': 5, 'dead_agents': 0, 'total_earned': 1002.6615}

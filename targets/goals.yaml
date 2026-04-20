@@ -1,0 +1,22 @@
+# SovereignSwarm — GOAL: ₹3,80,000
+# Target: accumulate ₹3,80,000 before first payout to owner's UPI
+# Progress tracked in targets/goals.json
+
+goal:
+  target_amount_inr: 380000
+  target_amount_usd: 4600  # at ~83 INR/USD
+  started_at: "2026-04-20"
+  payout_method: binance_p2p   # USDT → INR via Binance P2P → UPI
+  min_payout_inr: 500  # minimum INR to trigger P2P sell
+
+upi:
+  # Binance P2P must have UPI configured in your account settings
+  # Your linked bank/UPI receives INR when P2P order completes
+  # No separate UPI ID needed — Binance handles the settlement
+
+tracker:
+  current_balance_inr: 0
+  earnings_since_start: 0
+  total_paid_out: 0
+  days_elapsed: 0
+  daily_average: 0

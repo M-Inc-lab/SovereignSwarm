@@ -1,0 +1,1122 @@
+[2026-04-19T04:47:19] Sovereign initialised
+[2026-04-19T04:47:19] Starting SovereignSwarm — 5 initial agents
+[2026-04-19T04:47:19] FAILED to spawn SecAgent — insufficient master funds
+[2026-04-19T04:47:19] FAILED to spawn BotAgent — insufficient master funds
+[2026-04-19T04:47:19] FAILED to spawn BotAgent — insufficient master funds
+[2026-04-19T04:47:19] FAILED to spawn SecAgent — insufficient master funds
+[2026-04-19T04:47:19] FAILED to spawn SecAgent — insufficient master funds
+[2026-04-19T04:47:19] FAILED to spawn DataAgent — insufficient master funds
+[2026-04-19T04:47:19] FAILED to spawn DevAgent — insufficient master funds
+[2026-04-19T04:47:19] FAILED to spawn BotAgent — insufficient master funds
+[2026-04-19T04:47:19] === Cycle 1 | Alive: 0 | Master: $0.00 ===
+[2026-04-19T04:47:21] FAILED to spawn ContentAgent — insufficient master funds
+[2026-04-19T04:47:21] FAILED to spawn DevAgent — insufficient master funds
+[2026-04-19T04:47:21] FAILED to spawn SecAgent — insufficient master funds
+[2026-04-19T04:47:21] === Cycle 2 | Alive: 0 | Master: $0.00 ===
+[2026-04-19T04:47:23] FAILED to spawn SecAgent — insufficient master funds
+[2026-04-19T04:47:23] FAILED to spawn BotAgent — insufficient master funds
+[2026-04-19T04:47:23] FAILED to spawn SecAgent — insufficient master funds
+[2026-04-19T04:47:23] === Cycle 3 | Alive: 0 | Master: $0.00 ===
+[2026-04-19T04:47:25] FAILED to spawn ContentAgent — insufficient master funds
+[2026-04-19T04:47:25] FAILED to spawn ContentAgent — insufficient master funds
+[2026-04-19T04:47:25] FAILED to spawn ContentAgent — insufficient master funds
+[2026-04-19T04:47:25] === Cycle 4 | Alive: 0 | Master: $0.00 ===
+[2026-04-19T04:47:27] FAILED to spawn SecAgent — insufficient master funds
+[2026-04-19T04:47:27] FAILED to spawn BotAgent — insufficient master funds
+[2026-04-19T04:47:27] FAILED to spawn ContentAgent — insufficient master funds
+[2026-04-19T04:47:27] === Cycle 5 | Alive: 0 | Master: $0.00 ===
+[2026-04-19T04:47:29] FAILED to spawn DataAgent — insufficient master funds
+[2026-04-19T04:47:29] FAILED to spawn DataAgent — insufficient master funds
+[2026-04-19T04:47:29] FAILED to spawn BotAgent — insufficient master funds
+[2026-04-19T04:47:29] === Cycle 6 | Alive: 0 | Master: $0.00 ===
+[2026-04-19T04:47:31] FAILED to spawn BotAgent — insufficient master funds
+[2026-04-19T04:47:31] FAILED to spawn DevAgent — insufficient master funds
+[2026-04-19T04:47:31] FAILED to spawn ContentAgent — insufficient master funds
+[2026-04-19T04:47:31] === Cycle 7 | Alive: 0 | Master: $0.00 ===
+[2026-04-19T04:47:33] FAILED to spawn SecAgent — insufficient master funds
+[2026-04-19T04:47:33] FAILED to spawn ContentAgent — insufficient master funds
+[2026-04-19T04:47:33] FAILED to spawn DataAgent — insufficient master funds
+[2026-04-19T04:47:33] === Cycle 8 | Alive: 0 | Master: $0.00 ===
+[2026-04-19T04:47:35] FAILED to spawn BotAgent — insufficient master funds
+[2026-04-19T04:47:35] FAILED to spawn ContentAgent — insufficient master funds
+[2026-04-19T04:47:35] FAILED to spawn SecAgent — insufficient master funds
+[2026-04-19T04:47:35] === Cycle 9 | Alive: 0 | Master: $0.00 ===
+[2026-04-19T04:47:37] FAILED to spawn SecAgent — insufficient master funds
+[2026-04-19T04:47:37] FAILED to spawn BotAgent — insufficient master funds
+[2026-04-19T04:47:37] FAILED to spawn DataAgent — insufficient master funds
+[2026-04-19T04:47:37] === Cycle 10 | Alive: 0 | Master: $0.00 ===
+[2026-04-19T04:47:39] FAILED to spawn DataAgent — insufficient master funds
+[2026-04-19T04:47:39] FAILED to spawn DataAgent — insufficient master funds
+[2026-04-19T04:47:39] FAILED to spawn DevAgent — insufficient master funds
+[2026-04-19T04:47:39] === Cycle 11 | Alive: 0 | Master: $0.00 ===
+[2026-04-19T04:47:41] FAILED to spawn DataAgent — insufficient master funds
+[2026-04-19T04:47:41] FAILED to spawn BotAgent — insufficient master funds
+[2026-04-19T04:47:41] FAILED to spawn ContentAgent — insufficient master funds
+[2026-04-19T04:47:41] === Cycle 12 | Alive: 0 | Master: $0.00 ===
+[2026-04-19T04:47:43] FAILED to spawn BotAgent — insufficient master funds
+[2026-04-19T04:47:43] FAILED to spawn DataAgent — insufficient master funds
+[2026-04-19T04:47:43] FAILED to spawn SecAgent — insufficient master funds
+[2026-04-19T04:47:43] === Cycle 13 | Alive: 0 | Master: $0.00 ===
+[2026-04-19T04:47:45] FAILED to spawn DataAgent — insufficient master funds
+[2026-04-19T04:47:45] FAILED to spawn DataAgent — insufficient master funds
+[2026-04-19T04:47:45] FAILED to spawn DevAgent — insufficient master funds
+[2026-04-19T04:47:45] === Cycle 14 | Alive: 0 | Master: $0.00 ===
+[2026-04-19T04:47:47] FAILED to spawn BotAgent — insufficient master funds
+[2026-04-19T04:47:47] FAILED to spawn DevAgent — insufficient master funds
+[2026-04-19T04:47:47] FAILED to spawn DataAgent — insufficient master funds
+[2026-04-19T04:47:47] === Cycle 15 | Alive: 0 | Master: $0.00 ===
+[2026-04-19T04:47:49] FAILED to spawn ContentAgent — insufficient master funds
+[2026-04-19T04:47:49] FAILED to spawn ContentAgent — insufficient master funds
+[2026-04-19T04:47:49] FAILED to spawn DataAgent — insufficient master funds
+[2026-04-19T04:47:49] === Cycle 16 | Alive: 0 | Master: $0.00 ===
+[2026-04-19T04:47:51] FAILED to spawn ContentAgent — insufficient master funds
+[2026-04-19T04:47:51] FAILED to spawn SecAgent — insufficient master funds
+[2026-04-19T04:47:51] FAILED to spawn DataAgent — insufficient master funds
+[2026-04-19T04:47:51] === Cycle 17 | Alive: 0 | Master: $0.00 ===
+[2026-04-19T04:47:53] FAILED to spawn ContentAgent — insufficient master funds
+[2026-04-19T04:47:53] FAILED to spawn SecAgent — insufficient master funds
+[2026-04-19T04:47:53] FAILED to spawn SecAgent — insufficient master funds
+[2026-04-19T04:47:53] === Cycle 18 | Alive: 0 | Master: $0.00 ===
+[2026-04-19T04:47:55] FAILED to spawn BotAgent — insufficient master funds
+[2026-04-19T04:47:55] FAILED to spawn SecAgent — insufficient master funds
+[2026-04-19T04:47:55] FAILED to spawn SecAgent — insufficient master funds
+[2026-04-19T04:47:55] === Cycle 19 | Alive: 0 | Master: $0.00 ===
+[2026-04-19T04:47:57] FAILED to spawn ContentAgent — insufficient master funds
+[2026-04-19T04:47:57] FAILED to spawn DevAgent — insufficient master funds
+[2026-04-19T04:47:57] FAILED to spawn BotAgent — insufficient master funds
+[2026-04-19T04:47:57] === Cycle 20 | Alive: 0 | Master: $0.00 ===
+[2026-04-19T04:47:59] SovereignSwarm session complete
+[2026-04-19T04:47:59] Final status: {'master_balance': 0.0, 'total_agents': 0, 'alive_agents': 0, 'dead_agents': 0, 'total_earned': 0.0}
+[2026-04-19T04:48:05] Sovereign initialised
+[2026-04-19T04:48:05] Starting SovereignSwarm — 5 initial agents
+[2026-04-19T04:48:05] SPAWNED SecAgent with streams: ['security_audit']
+[2026-04-19T04:48:16] Sovereign initialised
+[2026-04-19T04:48:16] Starting SovereignSwarm — 5 initial agents
+[2026-04-19T04:48:16] SPAWNED BotAgent with streams: ['bot_services', 'automation']
+[2026-04-19T04:48:29] Sovereign initialised
+[2026-04-19T04:48:29] Starting SovereignSwarm — 5 initial agents
+[2026-04-19T04:48:29] SPAWNED DataAgent with streams: ['data_scraping', 'data_analysis']
+[2026-04-19T04:48:29] FAILED to spawn SecAgent — insufficient master funds
+[2026-04-19T04:48:29] FAILED to spawn DevAgent — insufficient master funds
+[2026-04-19T04:48:29] FAILED to spawn DataAgent — insufficient master funds
+[2026-04-19T04:48:29] FAILED to spawn DevAgent — insufficient master funds
+[2026-04-19T04:48:29] FAILED to spawn DataAgent — insufficient master funds
+[2026-04-19T04:48:29] FAILED to spawn DataAgent — insufficient master funds
+[2026-04-19T04:48:29] FAILED to spawn DataAgent — insufficient master funds
+[2026-04-19T04:48:29] === Cycle 1 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T04:48:29]   → DataAgent completed data_scraping: +$17.55
+[2026-04-19T04:48:31] FAILED to spawn ContentAgent — insufficient master funds
+[2026-04-19T04:48:31] FAILED to spawn BotAgent — insufficient master funds
+[2026-04-19T04:48:31] FAILED to spawn ContentAgent — insufficient master funds
+[2026-04-19T04:48:31] === Cycle 2 | Alive: 1 | Master: $12.63 ===
+[2026-04-19T04:48:31]   → DataAgent completed data_scraping: +$15.10
+[2026-04-19T04:48:33] FAILED to spawn BotAgent — insufficient master funds
+[2026-04-19T04:48:33] FAILED to spawn ContentAgent — insufficient master funds
+[2026-04-19T04:48:33] FAILED to spawn SecAgent — insufficient master funds
+[2026-04-19T04:48:33] === Cycle 3 | Alive: 1 | Master: $14.90 ===
+[2026-04-19T04:48:33]   → DataAgent completed data_analysis: +$57.27
+[2026-04-19T04:48:35] FAILED to spawn ContentAgent — insufficient master funds
+[2026-04-19T04:48:35] FAILED to spawn DataAgent — insufficient master funds
+[2026-04-19T04:48:35] FAILED to spawn DevAgent — insufficient master funds
+[2026-04-19T04:48:35] === Cycle 4 | Alive: 1 | Master: $23.49 ===
+[2026-04-19T04:48:35]   → DataAgent completed data_scraping: +$15.17
+[2026-04-19T04:48:37] FAILED to spawn BotAgent — insufficient master funds
+[2026-04-19T04:48:37] FAILED to spawn SecAgent — insufficient master funds
+[2026-04-19T04:48:37] FAILED to spawn SecAgent — insufficient master funds
+[2026-04-19T04:48:37] === Cycle 5 | Alive: 1 | Master: $25.76 ===
+[2026-04-19T04:48:37]   → DataAgent completed data_scraping: +$16.76
+[2026-04-19T04:48:39] FAILED to spawn ContentAgent — insufficient master funds
+[2026-04-19T04:48:39] FAILED to spawn SecAgent — insufficient master funds
+[2026-04-19T04:48:39] FAILED to spawn ContentAgent — insufficient master funds
+[2026-04-19T04:48:39] === Cycle 6 | Alive: 1 | Master: $28.28 ===
+[2026-04-19T04:48:39]   → DataAgent completed data_analysis: +$40.49
+[2026-04-19T04:48:41] FAILED to spawn DataAgent — insufficient master funds
+[2026-04-19T04:48:41] FAILED to spawn SecAgent — insufficient master funds
+[2026-04-19T04:48:41] FAILED to spawn ContentAgent — insufficient master funds
+[2026-04-19T04:48:41] === Cycle 7 | Alive: 1 | Master: $34.35 ===
+[2026-04-19T04:48:41]   → DataAgent completed data_analysis: +$42.15
+[2026-04-19T04:48:43] FAILED to spawn DataAgent — insufficient master funds
+[2026-04-19T04:48:43] FAILED to spawn BotAgent — insufficient master funds
+[2026-04-19T04:48:43] FAILED to spawn DevAgent — insufficient master funds
+[2026-04-19T04:48:43] === Cycle 8 | Alive: 1 | Master: $40.67 ===
+[2026-04-19T04:48:43]   → DataAgent completed data_analysis: +$48.70
+[2026-04-19T04:48:45] FAILED to spawn ContentAgent — insufficient master funds
+[2026-04-19T04:48:45] FAILED to spawn DataAgent — insufficient master funds
+[2026-04-19T04:48:45] FAILED to spawn SecAgent — insufficient master funds
+[2026-04-19T04:48:45] === Cycle 9 | Alive: 1 | Master: $47.98 ===
+[2026-04-19T04:48:45]   → DataAgent completed data_analysis: +$40.14
+[2026-04-19T04:48:47] SPAWNED SecAgent with streams: ['security_audit']
+[2026-04-19T04:48:47] FAILED to spawn SecAgent — insufficient master funds
+[2026-04-19T04:48:47] FAILED to spawn ContentAgent — insufficient master funds
+[2026-04-19T04:48:47] === Cycle 10 | Alive: 2 | Master: $4.00 ===
+[2026-04-19T04:48:47]   → DataAgent completed data_scraping: +$17.74
+[2026-04-19T04:48:47]   → SecAgent completed security_audit: +$96.75
+[2026-04-19T04:48:49] FAILED to spawn ContentAgent — insufficient master funds
+[2026-04-19T04:48:49] FAILED to spawn SecAgent — insufficient master funds
+[2026-04-19T04:48:49] FAILED to spawn BotAgent — insufficient master funds
+[2026-04-19T04:48:49] === Cycle 11 | Alive: 2 | Master: $21.17 ===
+[2026-04-19T04:48:49]   → DataAgent completed data_analysis: +$44.33
+[2026-04-19T04:48:49]   → SecAgent completed security_audit: +$76.45
+[2026-04-19T04:48:51] FAILED to spawn DataAgent — insufficient master funds
+[2026-04-19T04:48:51] FAILED to spawn ContentAgent — insufficient master funds
+[2026-04-19T04:48:51] FAILED to spawn ContentAgent — insufficient master funds
+[2026-04-19T04:48:51] === Cycle 12 | Alive: 2 | Master: $39.29 ===
+[2026-04-19T04:48:51]   → DataAgent completed data_analysis: +$56.55
+[2026-04-19T04:48:51]   → SecAgent completed security_audit: +$92.79
+[2026-04-19T04:48:53] SPAWNED ContentAgent with streams: ['content_gen', 'freelance_dev']
+[2026-04-19T04:48:53] FAILED to spawn DevAgent — insufficient master funds
+[2026-04-19T04:48:53] FAILED to spawn DataAgent — insufficient master funds
+[2026-04-19T04:48:53] === Cycle 13 | Alive: 3 | Master: $11.69 ===
+[2026-04-19T04:48:53]   → DataAgent completed data_analysis: +$46.43
+[2026-04-19T04:48:53]   → SecAgent completed security_audit: +$67.80
+[2026-04-19T04:48:53]   → ContentAgent completed freelance_dev: +$22.86
+[2026-04-19T04:48:55] FAILED to spawn DevAgent — insufficient master funds
+[2026-04-19T04:48:55] FAILED to spawn SecAgent — insufficient master funds
+[2026-04-19T04:48:55] === Cycle 14 | Alive: 3 | Master: $32.25 ===
+[2026-04-19T04:48:55]   → DataAgent completed data_scraping: +$15.92
+[2026-04-19T04:48:55]   → SecAgent completed security_audit: +$86.33
+[2026-04-19T04:48:55]   → ContentAgent completed content_gen: +$20.10
+[2026-04-19T04:48:57] SPAWNED DataAgent with streams: ['data_scraping', 'data_analysis']
+[2026-04-19T04:48:57] FAILED to spawn DataAgent — insufficient master funds
+[2026-04-19T04:48:57] === Cycle 15 | Alive: 4 | Master: $0.60 ===
+[2026-04-19T04:48:57]   → DataAgent completed data_scraping: +$12.30
+[2026-04-19T04:48:57]   → SecAgent completed security_audit: +$67.49
+[2026-04-19T04:48:57]   → ContentAgent completed freelance_dev: +$26.58
+[2026-04-19T04:48:57]   → DataAgent completed data_analysis: +$54.67
+[2026-04-19T04:48:59] FAILED to spawn DevAgent — insufficient master funds
+[2026-04-19T04:48:59] === Cycle 16 | Alive: 4 | Master: $24.76 ===
+[2026-04-19T04:48:59]   → DataAgent completed data_scraping: +$18.06
+[2026-04-19T04:48:59]   → SecAgent completed security_audit: +$67.55
+[2026-04-19T04:48:59]   → ContentAgent completed content_gen: +$17.33
+[2026-04-19T04:48:59]   → DataAgent completed data_scraping: +$14.68
+[2026-04-19T04:49:01] FAILED to spawn ContentAgent — insufficient master funds
+[2026-04-19T04:49:01] === Cycle 17 | Alive: 4 | Master: $42.40 ===
+[2026-04-19T04:49:01]   → DataAgent completed data_analysis: +$37.02
+[2026-04-19T04:49:01]   → SecAgent completed security_audit: +$94.27
+[2026-04-19T04:49:01]   → ContentAgent completed freelance_dev: +$21.45
+[2026-04-19T04:49:01]   → DataAgent completed data_analysis: +$40.66
+[2026-04-19T04:49:03] SPAWNED DataAgent with streams: ['data_scraping', 'data_analysis']
+[2026-04-19T04:49:03] === Cycle 18 | Alive: 5 | Master: $21.41 ===
+[2026-04-19T04:49:03]   → DataAgent completed data_scraping: +$15.42
+[2026-04-19T04:49:03]   → SecAgent completed security_audit: +$74.71
+[2026-04-19T04:49:03]   → ContentAgent completed freelance_dev: +$27.20
+[2026-04-19T04:49:03]   → DataAgent completed data_analysis: +$43.70
+[2026-04-19T04:49:03]   → DataAgent completed data_analysis: +$40.65
+[2026-04-19T04:49:05] === Cycle 19 | Alive: 5 | Master: $51.66 ===
+[2026-04-19T04:49:05]   → DataAgent completed data_scraping: +$14.33
+[2026-04-19T04:49:05]   → SecAgent completed security_audit: +$64.87
+[2026-04-19T04:49:05]   → ContentAgent completed freelance_dev: +$23.40
+[2026-04-19T04:49:05]   → DataAgent completed data_analysis: +$57.55
+[2026-04-19T04:49:05]   → DataAgent completed data_analysis: +$48.76
+[2026-04-19T04:49:07] === Cycle 20 | Alive: 5 | Master: $83.00 ===
+[2026-04-19T04:49:07]   → DataAgent completed data_scraping: +$19.08
+[2026-04-19T04:49:07]   → SecAgent completed security_audit: +$93.76
+[2026-04-19T04:49:07]   → ContentAgent completed freelance_dev: +$29.95
+[2026-04-19T04:49:07]   → DataAgent completed data_analysis: +$50.10
+[2026-04-19T04:49:07]   → DataAgent completed data_scraping: +$12.94
+[2026-04-19T04:49:09] SovereignSwarm session complete
+[2026-04-19T04:49:09] Final status: {'master_balance': 113.8726502296772, 'total_agents': 5, 'alive_agents': 5, 'dead_agents': 0, 'total_earned': 363.8726502296772}
+[2026-04-19T04:55:05] Sovereign initialised
+[2026-04-19T04:55:05] Starting SovereignSwarm — 5 initial agents
+[2026-04-19T04:55:05] SKIPPED ContentAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:05] SKIPPED DataAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:05] SKIPPED DevAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:05] SKIPPED ContentAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:05] SKIPPED BotAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:06] SKIPPED DataAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:06] SKIPPED ContentAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:06] SKIPPED SecAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:06] === Cycle 1 | Alive: 0 | Master: $60.00 ===
+[2026-04-19T04:55:06] [BANK] Payout failed — check STRIPE_SECRET_KEY / STRIPE_MASTER_ACCT env vars
+[2026-04-19T04:55:08] SKIPPED ContentAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:08] SKIPPED DevAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:08] SKIPPED DevAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:08] === Cycle 2 | Alive: 0 | Master: $60.00 ===
+[2026-04-19T04:55:08] [BANK] Payout failed — check STRIPE_SECRET_KEY / STRIPE_MASTER_ACCT env vars
+[2026-04-19T04:55:10] SKIPPED SecAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:10] SKIPPED ContentAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:10] SKIPPED DevAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:10] === Cycle 3 | Alive: 0 | Master: $60.00 ===
+[2026-04-19T04:55:10] [BANK] Payout failed — check STRIPE_SECRET_KEY / STRIPE_MASTER_ACCT env vars
+[2026-04-19T04:55:12] SKIPPED DevAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:12] SKIPPED ContentAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:12] SKIPPED DevAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:12] === Cycle 4 | Alive: 0 | Master: $60.00 ===
+[2026-04-19T04:55:12] [BANK] Payout failed — check STRIPE_SECRET_KEY / STRIPE_MASTER_ACCT env vars
+[2026-04-19T04:55:14] SKIPPED SecAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:14] SKIPPED SecAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:14] SKIPPED SecAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:14] === Cycle 5 | Alive: 0 | Master: $60.00 ===
+[2026-04-19T04:55:14] [BANK] Payout failed — check STRIPE_SECRET_KEY / STRIPE_MASTER_ACCT env vars
+[2026-04-19T04:55:16] SKIPPED ContentAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:16] SKIPPED SecAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:16] SKIPPED ContentAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:16] === Cycle 6 | Alive: 0 | Master: $60.00 ===
+[2026-04-19T04:55:16] [BANK] Payout failed — check STRIPE_SECRET_KEY / STRIPE_MASTER_ACCT env vars
+[2026-04-19T04:55:18] SKIPPED SecAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:18] SKIPPED ContentAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:18] SKIPPED ContentAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:18] === Cycle 7 | Alive: 0 | Master: $60.00 ===
+[2026-04-19T04:55:18] [BANK] Payout failed — check STRIPE_SECRET_KEY / STRIPE_MASTER_ACCT env vars
+[2026-04-19T04:55:20] SKIPPED DevAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:20] SKIPPED BotAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:20] SKIPPED DevAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:20] === Cycle 8 | Alive: 0 | Master: $60.00 ===
+[2026-04-19T04:55:20] [BANK] Payout failed — check STRIPE_SECRET_KEY / STRIPE_MASTER_ACCT env vars
+[2026-04-19T04:55:22] SKIPPED SecAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:22] SKIPPED ContentAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:22] SKIPPED DevAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:22] === Cycle 9 | Alive: 0 | Master: $60.00 ===
+[2026-04-19T04:55:22] [BANK] Payout failed — check STRIPE_SECRET_KEY / STRIPE_MASTER_ACCT env vars
+[2026-04-19T04:55:24] SKIPPED DevAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:24] SKIPPED DevAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:24] SKIPPED DataAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:24] === Cycle 10 | Alive: 0 | Master: $60.00 ===
+[2026-04-19T04:55:24] [BANK] Payout failed — check STRIPE_SECRET_KEY / STRIPE_MASTER_ACCT env vars
+[2026-04-19T04:55:26] SKIPPED DataAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:26] SKIPPED DevAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:26] SKIPPED BotAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:26] === Cycle 11 | Alive: 0 | Master: $60.00 ===
+[2026-04-19T04:55:26] [BANK] Payout failed — check STRIPE_SECRET_KEY / STRIPE_MASTER_ACCT env vars
+[2026-04-19T04:55:28] SKIPPED DevAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:28] SKIPPED BotAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:28] SKIPPED DataAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:28] === Cycle 12 | Alive: 0 | Master: $60.00 ===
+[2026-04-19T04:55:28] [BANK] Payout failed — check STRIPE_SECRET_KEY / STRIPE_MASTER_ACCT env vars
+[2026-04-19T04:55:30] SKIPPED DataAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:30] SKIPPED SecAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:30] SKIPPED BotAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:30] === Cycle 13 | Alive: 0 | Master: $60.00 ===
+[2026-04-19T04:55:30] [BANK] Payout failed — check STRIPE_SECRET_KEY / STRIPE_MASTER_ACCT env vars
+[2026-04-19T04:55:32] SKIPPED SecAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:32] SKIPPED SecAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:32] SKIPPED DataAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:32] === Cycle 14 | Alive: 0 | Master: $60.00 ===
+[2026-04-19T04:55:32] [BANK] Payout failed — check STRIPE_SECRET_KEY / STRIPE_MASTER_ACCT env vars
+[2026-04-19T04:55:34] SKIPPED DevAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:34] SKIPPED DevAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:34] SKIPPED DataAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:34] === Cycle 15 | Alive: 0 | Master: $60.00 ===
+[2026-04-19T04:55:34] [BANK] Payout failed — check STRIPE_SECRET_KEY / STRIPE_MASTER_ACCT env vars
+[2026-04-19T04:55:36] SKIPPED ContentAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:36] SKIPPED ContentAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:36] SKIPPED ContentAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:36] === Cycle 16 | Alive: 0 | Master: $60.00 ===
+[2026-04-19T04:55:36] [BANK] Payout failed — check STRIPE_SECRET_KEY / STRIPE_MASTER_ACCT env vars
+[2026-04-19T04:55:38] SKIPPED DataAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:38] SKIPPED ContentAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:38] SKIPPED DataAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:38] === Cycle 17 | Alive: 0 | Master: $60.00 ===
+[2026-04-19T04:55:38] [BANK] Payout failed — check STRIPE_SECRET_KEY / STRIPE_MASTER_ACCT env vars
+[2026-04-19T04:55:40] SKIPPED BotAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:40] SKIPPED SecAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:40] SKIPPED BotAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:40] === Cycle 18 | Alive: 0 | Master: $60.00 ===
+[2026-04-19T04:55:40] [BANK] Payout failed — check STRIPE_SECRET_KEY / STRIPE_MASTER_ACCT env vars
+[2026-04-19T04:55:42] SKIPPED DevAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:42] SKIPPED DataAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:42] SKIPPED ContentAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:42] === Cycle 19 | Alive: 0 | Master: $60.00 ===
+[2026-04-19T04:55:42] [BANK] Payout failed — check STRIPE_SECRET_KEY / STRIPE_MASTER_ACCT env vars
+[2026-04-19T04:55:44] SKIPPED ContentAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:44] SKIPPED ContentAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:44] SKIPPED SecAgent — insufficient master funds (need $80.0)
+[2026-04-19T04:55:44] === Cycle 20 | Alive: 0 | Master: $60.00 ===
+[2026-04-19T04:55:44] [BANK] Payout failed — check STRIPE_SECRET_KEY / STRIPE_MASTER_ACCT env vars
+[2026-04-19T04:55:46] SovereignSwarm session complete
+[2026-04-19T04:55:46] Final status: {'master_balance': 60.0, 'total_agents': 0, 'alive_agents': 0, 'dead_agents': 0, 'total_earned': 60.0}
+[2026-04-19T04:55:53] Sovereign initialised
+[2026-04-19T04:55:53] Starting SovereignSwarm — 5 initial agents
+[2026-04-19T04:55:53] SPAWNED DevAgent (streams: ['freelance_dev', 'api_aggregation'])
+[2026-04-19T04:55:53] SKIPPED DevAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:55:53] SKIPPED DataAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:55:53] SKIPPED BotAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:55:53] SKIPPED DataAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:55:53] SKIPPED SecAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:55:53] SKIPPED DataAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:55:53] SKIPPED BotAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:55:53] === Cycle 1 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T04:55:53]   → DevAgent [api_aggregation]: +$42.00
+[2026-04-19T04:55:55] SKIPPED BotAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:55:55] SKIPPED ContentAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:55:55] SKIPPED SecAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:55:55] === Cycle 2 | Alive: 1 | Master: $16.30 ===
+[2026-04-19T04:55:55]   → DevAgent [api_aggregation]: +$41.58
+[2026-04-19T04:55:57] SKIPPED BotAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:55:57] SKIPPED DevAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:55:57] SKIPPED SecAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:55:57] === Cycle 3 | Alive: 1 | Master: $22.54 ===
+[2026-04-19T04:55:57]   → DevAgent [freelance_dev]: +$29.91
+[2026-04-19T04:55:59] SKIPPED BotAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:55:59] SKIPPED ContentAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:55:59] SKIPPED BotAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:55:59] === Cycle 4 | Alive: 1 | Master: $27.02 ===
+[2026-04-19T04:55:59]   → DevAgent [freelance_dev]: +$20.39
+[2026-04-19T04:56:01] SKIPPED ContentAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:56:01] SKIPPED DataAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:56:01] SKIPPED DevAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:56:01] === Cycle 5 | Alive: 1 | Master: $30.08 ===
+[2026-04-19T04:56:01]   → DevAgent [api_aggregation]: +$47.16
+[2026-04-19T04:56:03] SKIPPED BotAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:56:03] SKIPPED DevAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:56:03] SKIPPED DevAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:56:03] === Cycle 6 | Alive: 1 | Master: $37.16 ===
+[2026-04-19T04:56:03]   → DevAgent [api_aggregation]: +$37.57
+[2026-04-19T04:56:05] SKIPPED DataAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:56:05] SKIPPED ContentAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:56:05] SKIPPED SecAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:56:05] === Cycle 7 | Alive: 1 | Master: $42.79 ===
+[2026-04-19T04:56:05]   → DevAgent [freelance_dev]: +$20.33
+[2026-04-19T04:56:07] SKIPPED DevAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:56:07] SKIPPED DataAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:56:07] SKIPPED ContentAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:56:07] === Cycle 8 | Alive: 1 | Master: $45.84 ===
+[2026-04-19T04:56:07]   → DevAgent [api_aggregation]: +$37.99
+[2026-04-19T04:56:07] [BANK] Payout failed — check STRIPE_SECRET_KEY / STRIPE_MASTER_ACCT env vars
+[2026-04-19T04:56:09] SKIPPED SecAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:56:09] SKIPPED ContentAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:56:09] SKIPPED DataAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:56:09] === Cycle 9 | Alive: 1 | Master: $51.54 ===
+[2026-04-19T04:56:09]   → DevAgent [api_aggregation]: +$37.37
+[2026-04-19T04:56:09] [BANK] Payout failed — check STRIPE_SECRET_KEY / STRIPE_MASTER_ACCT env vars
+[2026-04-19T04:56:11] SKIPPED BotAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:56:11] SKIPPED ContentAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:56:11] SKIPPED ContentAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:56:11] === Cycle 10 | Alive: 1 | Master: $57.15 ===
+[2026-04-19T04:56:11]   → DevAgent [api_aggregation]: +$44.89
+[2026-04-19T04:56:11] [BANK] Payout failed — check STRIPE_SECRET_KEY / STRIPE_MASTER_ACCT env vars
+[2026-04-19T04:56:13] SPAWNED BotAgent (streams: ['bot_services', 'automation'])
+[2026-04-19T04:56:13] SKIPPED ContentAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:56:13] SKIPPED DevAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:56:13] === Cycle 11 | Alive: 2 | Master: $13.88 ===
+[2026-04-19T04:56:13]   → DevAgent [api_aggregation]: +$51.17
+[2026-04-19T04:56:13]   → BotAgent [bot_services]: +$35.15
+[2026-04-19T04:56:15] SKIPPED DataAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:56:15] SKIPPED DataAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:56:15] SKIPPED ContentAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:56:15] === Cycle 12 | Alive: 2 | Master: $26.83 ===
+[2026-04-19T04:56:15]   → DevAgent [freelance_dev]: +$32.32
+[2026-04-19T04:56:15]   → BotAgent [automation]: +$62.54
+[2026-04-19T04:56:17] SKIPPED DataAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:56:17] SKIPPED BotAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:56:17] SKIPPED BotAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:56:17] === Cycle 13 | Alive: 2 | Master: $41.06 ===
+[2026-04-19T04:56:17]   → DevAgent [freelance_dev]: +$30.53
+[2026-04-19T04:56:17]   → BotAgent [automation]: +$60.19
+[2026-04-19T04:56:17] [BANK] Payout failed — check STRIPE_SECRET_KEY / STRIPE_MASTER_ACCT env vars
+[2026-04-19T04:56:19] SKIPPED DevAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:56:19] SKIPPED DataAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:56:19] SKIPPED ContentAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:56:19] === Cycle 14 | Alive: 2 | Master: $54.66 ===
+[2026-04-19T04:56:19]   → DevAgent [freelance_dev]: +$31.42
+[2026-04-19T04:56:19]   → BotAgent [automation]: +$45.77
+[2026-04-19T04:56:19] [BANK] Payout failed — check STRIPE_SECRET_KEY / STRIPE_MASTER_ACCT env vars
+[2026-04-19T04:56:21] SPAWNED SecAgent (streams: ['security_audit'])
+[2026-04-19T04:56:21] SKIPPED BotAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:56:21] SKIPPED DevAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:56:21] === Cycle 15 | Alive: 3 | Master: $16.24 ===
+[2026-04-19T04:56:21]   → DevAgent [api_aggregation]: +$51.31
+[2026-04-19T04:56:21]   → BotAgent [automation]: +$68.48
+[2026-04-19T04:56:21]   → SecAgent [security_audit]: +$89.61
+[2026-04-19T04:56:23] SKIPPED SecAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:56:23] SKIPPED DevAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:56:23] === Cycle 16 | Alive: 3 | Master: $47.65 ===
+[2026-04-19T04:56:23]   → DevAgent [freelance_dev]: +$24.39
+[2026-04-19T04:56:23]   → BotAgent [bot_services]: +$42.45
+[2026-04-19T04:56:23]   → SecAgent [security_audit]: +$69.16
+[2026-04-19T04:56:23] [BANK] Payout failed — check STRIPE_SECRET_KEY / STRIPE_MASTER_ACCT env vars
+[2026-04-19T04:56:25] SPAWNED SecAgent (streams: ['security_audit'])
+[2026-04-19T04:56:25] SKIPPED SecAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:56:25] === Cycle 17 | Alive: 4 | Master: $18.05 ===
+[2026-04-19T04:56:25]   → DevAgent [freelance_dev]: +$23.41
+[2026-04-19T04:56:25]   → BotAgent [automation]: +$62.65
+[2026-04-19T04:56:25]   → SecAgent [security_audit]: +$60.54
+[2026-04-19T04:56:25]   → SecAgent [security_audit]: +$72.16
+[2026-04-19T04:56:25] [BANK] Payout failed — check STRIPE_SECRET_KEY / STRIPE_MASTER_ACCT env vars
+[2026-04-19T04:56:27] SKIPPED DevAgent — insufficient master funds (need $60.0)
+[2026-04-19T04:56:27] === Cycle 18 | Alive: 4 | Master: $50.87 ===
+[2026-04-19T04:56:27]   → DevAgent [api_aggregation]: +$46.65
+[2026-04-19T04:56:27]   → BotAgent [automation]: +$47.71
+[2026-04-19T04:56:27]   → SecAgent [security_audit]: +$70.91
+[2026-04-19T04:56:27]   → SecAgent [security_audit]: +$91.83
+[2026-04-19T04:56:27] [BANK] Payout failed — check STRIPE_SECRET_KEY / STRIPE_MASTER_ACCT env vars
+[2026-04-19T04:56:29] SPAWNED ContentAgent (streams: ['content_gen', 'freelance_dev'])
+[2026-04-19T04:56:29] === Cycle 19 | Alive: 5 | Master: $39.43 ===
+[2026-04-19T04:56:29]   → DevAgent [api_aggregation]: +$45.78
+[2026-04-19T04:56:29]   → BotAgent [automation]: +$52.17
+[2026-04-19T04:56:29]   → SecAgent [security_audit]: +$67.11
+[2026-04-19T04:56:29]   → SecAgent [security_audit]: +$82.63
+[2026-04-19T04:56:29]   → ContentAgent [content_gen]: +$18.63
+[2026-04-19T04:56:29] [BANK] Payout failed — check STRIPE_SECRET_KEY / STRIPE_MASTER_ACCT env vars
+[2026-04-19T04:56:31] === Cycle 20 | Alive: 5 | Master: $79.38 ===
+[2026-04-19T04:56:31]   → DevAgent [freelance_dev]: +$30.40
+[2026-04-19T04:56:31]   → BotAgent [automation]: +$48.60
+[2026-04-19T04:56:31]   → SecAgent [security_audit]: +$80.76
+[2026-04-19T04:56:31]   → SecAgent [security_audit]: +$61.94
+[2026-04-19T04:56:31]   → ContentAgent [content_gen]: +$25.96
+[2026-04-19T04:56:31] [BANK] Payout failed — check STRIPE_SECRET_KEY / STRIPE_MASTER_ACCT env vars
+[2026-04-19T04:56:33] SovereignSwarm session complete
+[2026-04-19T04:56:33] Final status: {'master_balance': 116.528, 'total_agents': 5, 'alive_agents': 5, 'dead_agents': 0, 'total_earned': 366.528}
+[2026-04-19T05:11:05] Sovereign initialised
+[2026-04-19T05:11:05] Starting SovereignSwarm — 3 initial agents
+[2026-04-19T05:11:05] SPAWNED BotAgent (streams: ['bot_services', 'automation'])
+[2026-04-19T05:11:06]   → BotAgent: earned $38.74 via fix_bug
+[2026-04-19T05:11:06] === Cycle 1 | Alive: 1 | Master: $15.81 ===
+[2026-04-19T05:11:09]   → BotAgent: earned $55.13 via bot
+[2026-04-19T05:11:09] === Cycle 2 | Alive: 1 | Master: $24.08 ===
+[2026-04-19T05:11:12]   → BotAgent: earned $32.41 via scraper
+[2026-04-19T05:11:12] === Cycle 3 | Alive: 1 | Master: $28.94 ===
+[2026-04-19T05:11:15]   → BotAgent: earned $63.27 via db_migration
+[2026-04-19T05:11:15] === Cycle 4 | Alive: 1 | Master: $38.43 ===
+[2026-04-19T05:11:19]   → BotAgent: earned $30.82 via fix_bug
+[2026-04-19T05:11:19] === Cycle 5 | Alive: 1 | Master: $43.06 ===
+[2026-04-19T05:11:22]   → BotAgent: earned $69.50 via bot
+[2026-04-19T05:11:22] [BANK] ⚠ Payout failed: STRIPE_SECRET_KEY not set
+[2026-04-19T05:11:22] === Cycle 6 | Alive: 1 | Master: $53.48 ===
+[2026-04-19T05:11:25]   → BotAgent: earned $75.05 via db_migration
+[2026-04-19T05:11:25] [BANK] ⚠ Payout failed: STRIPE_SECRET_KEY not set
+[2026-04-19T05:11:25] === Cycle 7 | Alive: 1 | Master: $64.74 ===
+[2026-04-19T05:11:28] SPAWNED DevAgent (streams: ['freelance_dev', 'api_aggregation'])
+[2026-04-19T05:11:28]   → BotAgent: earned $69.15 via build_api
+[2026-04-19T05:11:28]   → DevAgent: earned $51.21 via scraper
+[2026-04-19T05:11:28] === Cycle 8 | Alive: 2 | Master: $32.79 ===
+[2026-04-19T05:11:32]   → BotAgent: earned $91.18 via db_migration
+[2026-04-19T05:11:32]   → DevAgent: earned $61.07 via data_pipeline
+[2026-04-19T05:11:32] [BANK] ⚠ Payout failed: STRIPE_SECRET_KEY not set
+[2026-04-19T05:11:32] === Cycle 9 | Alive: 2 | Master: $55.63 ===
+[2026-04-19T05:11:35]   → BotAgent: earned $77.77 via build_api
+[2026-04-19T05:11:35]   → DevAgent: earned $43.00 via data_pipeline
+[2026-04-19T05:11:35] [BANK] ⚠ Payout failed: STRIPE_SECRET_KEY not set
+[2026-04-19T05:11:35] === Cycle 10 | Alive: 2 | Master: $73.75 ===
+[2026-04-19T05:11:38] SPAWNED BotAgent (streams: ['bot_services', 'automation'])
+[2026-04-19T05:11:38]   → BotAgent: earned $32.34 via fix_bug
+[2026-04-19T05:11:38]   → DevAgent: earned $48.95 via script
+[2026-04-19T05:11:38]   → BotAgent: earned $39.39 via fix_bug
+[2026-04-19T05:11:38] === Cycle 11 | Alive: 3 | Master: $41.85 ===
+[2026-04-19T05:11:41]   → BotAgent: earned $71.35 via db_migration
+[2026-04-19T05:11:41]   → DevAgent: earned $23.39 via script
+[2026-04-19T05:11:41]   → BotAgent: earned $60.76 via bot
+[2026-04-19T05:11:41] [BANK] ⚠ Payout failed: STRIPE_SECRET_KEY not set
+[2026-04-19T05:11:41] === Cycle 12 | Alive: 3 | Master: $65.17 ===
+[2026-04-19T05:11:44] SPAWNED SecAgent (streams: ['security_audit', 'bounty'])
+[2026-04-19T05:11:45]   → BotAgent: earned $74.09 via db_migration
+[2026-04-19T05:11:45]   → DevAgent: earned $46.76 via data_pipeline
+[2026-04-19T05:11:45]   → BotAgent: earned $80.50 via db_migration
+[2026-04-19T05:11:45]   → SecAgent: earned $22.85 via submitted
+[2026-04-19T05:11:45] === Cycle 13 | Alive: 4 | Master: $48.80 ===
+[2026-04-19T05:11:48]   → BotAgent: earned $37.36 via fix_bug
+[2026-04-19T05:11:48]   → DevAgent: earned $118.48 via build_api
+[2026-04-19T05:11:49]   → BotAgent: earned $99.02 via db_migration
+[2026-04-19T05:11:49]   → SecAgent: earned $90.91 via submitted
+[2026-04-19T05:11:49] [BANK] ⚠ Payout failed: STRIPE_SECRET_KEY not set
+[2026-04-19T05:11:49] === Cycle 14 | Alive: 4 | Master: $100.67 ===
+[2026-04-19T05:11:52] SPAWNED DevAgent (streams: ['freelance_dev', 'api_aggregation'])
+[2026-04-19T05:11:52]   → BotAgent: earned $23.42 via script
+[2026-04-19T05:11:53]   → DevAgent: earned $27.60 via fix_bug
+[2026-04-19T05:11:53]   → BotAgent: earned $61.10 via data_pipeline
+[2026-04-19T05:11:53]   → SecAgent: earned $92.89 via submitted
+[2026-04-19T05:11:53]   → DevAgent: earned $39.87 via script
+[2026-04-19T05:11:53] [BANK] ⚠ Payout failed: STRIPE_SECRET_KEY not set
+[2026-04-19T05:11:53] === Cycle 15 | Alive: 5 | Master: $87.40 ===
+[2026-04-19T05:11:56]   → BotAgent: earned $59.68 via scraper
+[2026-04-19T05:11:56]   → DevAgent: earned $73.71 via landing_page
+[2026-04-19T05:11:56]   → BotAgent: earned $66.13 via bot
+[2026-04-19T05:11:57]   → SecAgent: earned $2.57 via submitted
+[2026-04-19T05:11:57]   → DevAgent: earned $61.83 via bot
+[2026-04-19T05:11:57] [BANK] ⚠ Payout failed: STRIPE_SECRET_KEY not set
+[2026-04-19T05:11:57] === Cycle 16 | Alive: 5 | Master: $126.99 ===
+[2026-04-19T05:12:00]   → BotAgent: earned $50.29 via bot
+[2026-04-19T05:12:00]   → DevAgent: earned $37.07 via scraper
+[2026-04-19T05:12:00]   → BotAgent: earned $20.30 via script
+[2026-04-19T05:12:01]   → SecAgent: earned $49.21 via submitted
+[2026-04-19T05:12:01]   → DevAgent: earned $73.54 via data_pipeline
+[2026-04-19T05:12:01] [BANK] ⚠ Payout failed: STRIPE_SECRET_KEY not set
+[2026-04-19T05:12:01] === Cycle 17 | Alive: 5 | Master: $161.55 ===
+[2026-04-19T05:12:04]   → BotAgent: earned $76.02 via data_pipeline
+[2026-04-19T05:12:04]   → DevAgent: earned $35.18 via script
+[2026-04-19T05:12:04]   → BotAgent: earned $52.94 via landing_page
+[2026-04-19T05:12:05]   → SecAgent: earned $85.59 via submitted
+[2026-04-19T05:12:05]   → DevAgent: earned $58.62 via data_pipeline
+[2026-04-19T05:12:05] [BANK] ⚠ Payout failed: STRIPE_SECRET_KEY not set
+[2026-04-19T05:12:05] === Cycle 18 | Alive: 5 | Master: $207.80 ===
+[2026-04-19T05:12:08]   → BotAgent: earned $36.00 via script
+[2026-04-19T05:12:08]   → DevAgent: earned $93.75 via db_migration
+[2026-04-19T05:12:08]   → BotAgent: earned $76.41 via data_pipeline
+[2026-04-19T05:12:09]   → SecAgent: earned $15.35 via submitted
+[2026-04-19T05:12:09]   → DevAgent: earned $87.26 via db_migration
+[2026-04-19T05:12:09] [BANK] ⚠ Payout failed: STRIPE_SECRET_KEY not set
+[2026-04-19T05:12:09] === Cycle 19 | Alive: 5 | Master: $254.12 ===
+[2026-04-19T05:12:12]   → BotAgent: earned $33.14 via fix_bug
+[2026-04-19T05:12:12]   → DevAgent: earned $99.32 via db_migration
+[2026-04-19T05:12:12]   → BotAgent: earned $129.22 via build_api
+[2026-04-19T05:12:17]   → SecAgent: earned $36.04 via submitted
+[2026-04-19T05:12:17]   → DevAgent: earned $75.79 via data_pipeline
+[2026-04-19T05:12:17] [BANK] ⚠ Payout failed: STRIPE_SECRET_KEY not set
+[2026-04-19T05:12:17] === Cycle 20 | Alive: 5 | Master: $310.14 ===
+[2026-04-19T05:12:20] SovereignSwarm session complete
+[2026-04-19T05:12:20] Final status: {'master_balance': 310.14349999999996, 'total_agents': 5, 'alive_agents': 5, 'dead_agents': 0, 'total_earned': 560.1435}
+[2026-04-19T05:23:08] Sovereign initialised
+[2026-04-19T05:23:08] Starting SovereignSwarm — 3 initial agents
+[2026-04-19T05:23:08] SPAWNED DataAgent (streams: ['data_scraping', 'data_analysis'])
+[2026-04-19T05:23:08]   → DataAgent: api_call_only
+[2026-04-19T05:23:08] === Cycle 1 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:23:12]   → DataAgent: api_call_only
+[2026-04-19T05:23:12] === Cycle 2 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:23:15]   → DataAgent: api_call_only
+[2026-04-19T05:23:15] === Cycle 3 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:23:18]   → DataAgent: api_call_only
+[2026-04-19T05:23:18] === Cycle 4 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:23:21]   → DataAgent: api_call_only
+[2026-04-19T05:23:21] === Cycle 5 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:23:24]   → DataAgent: api_call_only
+[2026-04-19T05:23:24] === Cycle 6 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:23:28]   → DataAgent: api_call_only
+[2026-04-19T05:23:28] === Cycle 7 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:23:31]   → DataAgent: api_call_only
+[2026-04-19T05:23:31] === Cycle 8 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:23:34]   → DataAgent: api_call_only
+[2026-04-19T05:23:34] === Cycle 9 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:23:37]   → DataAgent: api_call_only
+[2026-04-19T05:23:37] === Cycle 10 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:23:40]   → DataAgent: api_call_only
+[2026-04-19T05:23:40] === Cycle 11 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:23:44]   → DataAgent: api_call_only
+[2026-04-19T05:23:44] === Cycle 12 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:23:47]   → DataAgent: api_call_only
+[2026-04-19T05:23:47] === Cycle 13 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:23:51]   → DataAgent: api_call_only
+[2026-04-19T05:23:51] === Cycle 14 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:23:54]   → DataAgent: api_call_only
+[2026-04-19T05:23:54] === Cycle 15 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:23:58]   → DataAgent: api_call_only
+[2026-04-19T05:23:58] === Cycle 16 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:24:01]   → DataAgent: api_call_only
+[2026-04-19T05:24:01] === Cycle 17 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:24:04]   → DataAgent: api_call_only
+[2026-04-19T05:24:04] === Cycle 18 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:24:08]   → DataAgent: api_call_only
+[2026-04-19T05:24:08] === Cycle 19 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:24:11]   → DataAgent: api_call_only
+[2026-04-19T05:24:11] === Cycle 20 | Alive: 0 | Master: $10.00 ===
+[2026-04-19T05:24:14] SovereignSwarm session complete
+[2026-04-19T05:24:14] Final status: {'master_balance': 10.0, 'total_agents': 1, 'alive_agents': 0, 'dead_agents': 1, 'total_earned': 60.0}
+[2026-04-19T05:25:41] Sovereign initialised
+[2026-04-19T05:25:41] Starting SovereignSwarm — 3 initial agents
+[2026-04-19T05:25:41] SPAWNED SaaSAgent (streams: ['saas', 'subscription'])
+[2026-04-19T05:25:41] Could not import agents.code_merchant: No module named 'update_space_route'
+[2026-04-19T05:25:41] === Cycle 1 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:25:44] Could not import agents.code_merchant: No module named 'update_space_route'
+[2026-04-19T05:25:44] === Cycle 2 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:25:47] Could not import agents.code_merchant: No module named 'update_space_route'
+[2026-04-19T05:25:47] === Cycle 3 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:25:50] Could not import agents.code_merchant: No module named 'update_space_route'
+[2026-04-19T05:25:50] === Cycle 4 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:25:54] Could not import agents.code_merchant: No module named 'update_space_route'
+[2026-04-19T05:25:54] === Cycle 5 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:25:57] Could not import agents.code_merchant: No module named 'update_space_route'
+[2026-04-19T05:25:57] === Cycle 6 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:26:00] Could not import agents.code_merchant: No module named 'update_space_route'
+[2026-04-19T05:26:00] === Cycle 7 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:26:03] Could not import agents.code_merchant: No module named 'update_space_route'
+[2026-04-19T05:26:03] === Cycle 8 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:26:06] Could not import agents.code_merchant: No module named 'update_space_route'
+[2026-04-19T05:26:06] === Cycle 9 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:26:09] Could not import agents.code_merchant: No module named 'update_space_route'
+[2026-04-19T05:26:09] === Cycle 10 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:26:13] Could not import agents.code_merchant: No module named 'update_space_route'
+[2026-04-19T05:26:13] === Cycle 11 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:26:16] Could not import agents.code_merchant: No module named 'update_space_route'
+[2026-04-19T05:26:16] === Cycle 12 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:26:19] Could not import agents.code_merchant: No module named 'update_space_route'
+[2026-04-19T05:26:19] === Cycle 13 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:26:22] Could not import agents.code_merchant: No module named 'update_space_route'
+[2026-04-19T05:26:22] === Cycle 14 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:26:25] Could not import agents.code_merchant: No module named 'update_space_route'
+[2026-04-19T05:26:25] === Cycle 15 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:26:28] Could not import agents.code_merchant: No module named 'update_space_route'
+[2026-04-19T05:26:28] === Cycle 16 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:26:32] Could not import agents.code_merchant: No module named 'update_space_route'
+[2026-04-19T05:26:32] === Cycle 17 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:26:35] Could not import agents.code_merchant: No module named 'update_space_route'
+[2026-04-19T05:26:35] === Cycle 18 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:26:38] Could not import agents.code_merchant: No module named 'update_space_route'
+[2026-04-19T05:26:38] === Cycle 19 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:26:41] Could not import agents.code_merchant: No module named 'update_space_route'
+[2026-04-19T05:26:41] === Cycle 20 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T05:26:44] SovereignSwarm session complete
+[2026-04-19T05:26:44] Final status: {'master_balance': 10.0, 'total_agents': 1, 'alive_agents': 1, 'dead_agents': 0, 'total_earned': 60.0}
+[2026-04-19T05:27:46] Sovereign initialised
+[2026-04-19T05:27:46] Starting SovereignSwarm — 3 initial agents
+[2026-04-19T05:27:46] SPAWNED DevAgent (streams: ['freelance_dev', 'api_aggregation'])
+[2026-04-19T05:27:47]   → DevAgent: earned $29.60 via fix_bug
+[2026-04-19T05:27:47] === Cycle 1 | Alive: 1 | Master: $14.44 ===
+[2026-04-19T05:27:50]   → DevAgent: earned $47.04 via data_pipeline
+[2026-04-19T05:27:50] === Cycle 2 | Alive: 1 | Master: $21.50 ===
+[2026-04-19T05:27:53]   → DevAgent: earned $37.66 via bot
+[2026-04-19T05:27:53] === Cycle 3 | Alive: 1 | Master: $27.15 ===
+[2026-04-19T05:27:56]   → DevAgent: earned $140.14 via build_api
+[2026-04-19T05:27:56] === Cycle 4 | Alive: 1 | Master: $48.17 ===
+[2026-04-19T05:28:00]   → DevAgent: earned $57.44 via scraper
+[2026-04-19T05:28:14] Sovereign initialised
+[2026-04-19T05:28:14] Starting SovereignSwarm — 3 initial agents
+[2026-04-19T05:28:14] SPAWNED SaaSAgent (streams: ['saas', 'subscription'])
+[2026-04-19T05:28:15]   → SaaSAgent: ready_to_sell
+[2026-04-19T05:28:15] [BANK]   $10.60 accumulated (need $50.0 min to pay out)
+[2026-04-19T05:28:15] === Cycle 1 | Alive: 1 | Master: $10.60 ===
+[2026-04-19T05:28:18]   → SaaSAgent: ready_to_sell
+[2026-04-19T05:28:18] [BANK]   $11.65 accumulated (need $50.0 min to pay out)
+[2026-04-19T05:28:18] === Cycle 2 | Alive: 1 | Master: $11.65 ===
+[2026-04-19T05:28:21]   → SaaSAgent: ready_to_sell
+[2026-04-19T05:28:21] [BANK]   $12.40 accumulated (need $50.0 min to pay out)
+[2026-04-19T05:28:21] === Cycle 3 | Alive: 1 | Master: $12.40 ===
+[2026-04-19T05:28:24]   → SaaSAgent: ready_to_sell
+[2026-04-19T05:28:24] [BANK]   $13.89 accumulated (need $50.0 min to pay out)
+[2026-04-19T05:28:24] === Cycle 4 | Alive: 1 | Master: $13.89 ===
+[2026-04-19T05:28:27]   → SaaSAgent: ready_to_sell
+[2026-04-19T05:28:27] [BANK]   $16.14 accumulated (need $50.0 min to pay out)
+[2026-04-19T05:28:27] === Cycle 5 | Alive: 1 | Master: $16.14 ===
+[2026-04-19T05:28:30]   → SaaSAgent: ready_to_sell
+[2026-04-19T05:28:30] [BANK]   $18.39 accumulated (need $50.0 min to pay out)
+[2026-04-19T05:28:30] === Cycle 6 | Alive: 1 | Master: $18.39 ===
+[2026-04-19T05:28:34]   → SaaSAgent: ready_to_sell
+[2026-04-19T05:28:34] [BANK]   $19.74 accumulated (need $50.0 min to pay out)
+[2026-04-19T05:28:34] === Cycle 7 | Alive: 1 | Master: $19.74 ===
+[2026-04-19T05:28:37]   → SaaSAgent: ready_to_sell
+[2026-04-19T05:28:37] [BANK]   $20.64 accumulated (need $50.0 min to pay out)
+[2026-04-19T05:28:37] === Cycle 8 | Alive: 1 | Master: $20.64 ===
+[2026-04-19T05:28:40]   → SaaSAgent: ready_to_sell
+[2026-04-19T05:28:40] [BANK]   $21.39 accumulated (need $50.0 min to pay out)
+[2026-04-19T05:28:40] === Cycle 9 | Alive: 1 | Master: $21.39 ===
+[2026-04-19T05:28:43]   → SaaSAgent: ready_to_sell
+[2026-04-19T05:28:43] [BANK]   $22.13 accumulated (need $50.0 min to pay out)
+[2026-04-19T05:28:43] === Cycle 10 | Alive: 1 | Master: $22.13 ===
+[2026-04-19T05:28:46]   → SaaSAgent: ready_to_sell
+[2026-04-19T05:28:46] [BANK]   $24.38 accumulated (need $50.0 min to pay out)
+[2026-04-19T05:28:46] === Cycle 11 | Alive: 1 | Master: $24.38 ===
+[2026-04-19T05:28:49]   → SaaSAgent: ready_to_sell
+[2026-04-19T05:28:49] [BANK]   $25.73 accumulated (need $50.0 min to pay out)
+[2026-04-19T05:28:49] === Cycle 12 | Alive: 1 | Master: $25.73 ===
+[2026-04-19T05:28:53]   → SaaSAgent: ready_to_sell
+[2026-04-19T05:28:53] [BANK]   $27.08 accumulated (need $50.0 min to pay out)
+[2026-04-19T05:28:53] === Cycle 13 | Alive: 1 | Master: $27.08 ===
+[2026-04-19T05:28:56]   → SaaSAgent: ready_to_sell
+[2026-04-19T05:28:56] [BANK]   $28.28 accumulated (need $50.0 min to pay out)
+[2026-04-19T05:28:56] === Cycle 14 | Alive: 1 | Master: $28.28 ===
+[2026-04-19T05:28:59]   → SaaSAgent: ready_to_sell
+[2026-04-19T05:28:59] [BANK]   $29.63 accumulated (need $50.0 min to pay out)
+[2026-04-19T05:28:59] === Cycle 15 | Alive: 1 | Master: $29.63 ===
+[2026-04-19T05:29:02]   → SaaSAgent: ready_to_sell
+[2026-04-19T05:29:02] [BANK]   $30.83 accumulated (need $50.0 min to pay out)
+[2026-04-19T05:29:02] === Cycle 16 | Alive: 1 | Master: $30.83 ===
+[2026-04-19T05:29:05]   → SaaSAgent: ready_to_sell
+[2026-04-19T05:29:05] [BANK]   $32.32 accumulated (need $50.0 min to pay out)
+[2026-04-19T05:29:05] === Cycle 17 | Alive: 1 | Master: $32.32 ===
+[2026-04-19T05:29:08]   → SaaSAgent: ready_to_sell
+[2026-04-19T05:29:08] [BANK]   $33.07 accumulated (need $50.0 min to pay out)
+[2026-04-19T05:29:08] === Cycle 18 | Alive: 1 | Master: $33.07 ===
+[2026-04-19T05:29:12]   → SaaSAgent: ready_to_sell
+[2026-04-19T05:29:12] [BANK]   $33.67 accumulated (need $50.0 min to pay out)
+[2026-04-19T05:29:12] === Cycle 19 | Alive: 1 | Master: $33.67 ===
+[2026-04-19T05:29:15]   → SaaSAgent: ready_to_sell
+[2026-04-19T05:29:15] [BANK]   $35.02 accumulated (need $50.0 min to pay out)
+[2026-04-19T05:29:15] === Cycle 20 | Alive: 1 | Master: $35.02 ===
+[2026-04-19T05:29:18] SovereignSwarm session complete
+[2026-04-19T05:29:18] Final status: {'master_balance': 35.02, 'total_agents': 1, 'alive_agents': 1, 'dead_agents': 0, 'total_earned': 85.02000000000001}
+[2026-04-19T06:08:31] Sovereign initialised
+[2026-04-19T06:08:31] Starting SovereignSwarm — 3 initial agents
+[2026-04-19T06:08:31] SPAWNED DataAgent (streams: ['data_scraping', 'data_analysis'])
+[2026-04-19T06:08:32]   → DataAgent: api_call_only
+[2026-04-19T06:08:34] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:08:34] === Cycle 1 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T06:08:37]   → DataAgent: api_call_only
+[2026-04-19T06:08:39] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:08:39] === Cycle 2 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T06:08:43]   → DataAgent: api_call_only
+[2026-04-19T06:08:45] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:08:45] === Cycle 3 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T06:08:48]   → DataAgent: api_call_only
+[2026-04-19T06:08:50] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:08:50] === Cycle 4 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T06:08:53]   → DataAgent: api_call_only
+[2026-04-19T06:08:55] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:08:55] === Cycle 5 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T06:08:59]   → DataAgent: api_call_only
+[2026-04-19T06:09:01] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:09:01] === Cycle 6 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T06:09:04]   → DataAgent: api_call_only
+[2026-04-19T06:09:06] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:09:06] === Cycle 7 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T06:09:10]   → DataAgent: api_call_only
+[2026-04-19T06:09:12] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:09:12] === Cycle 8 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T06:09:15]   → DataAgent: api_call_only
+[2026-04-19T06:09:17] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:09:17] === Cycle 9 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T06:09:20]   → DataAgent: api_call_only
+[2026-04-19T06:09:22] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:09:22] === Cycle 10 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T06:09:26]   → DataAgent: api_call_only
+[2026-04-19T06:09:27] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:09:27] === Cycle 11 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T06:09:31]   → DataAgent: api_call_only
+[2026-04-19T06:09:33] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:09:33] === Cycle 12 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T06:09:36]   → DataAgent: api_call_only
+[2026-04-19T06:09:38] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:09:38] === Cycle 13 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T06:09:41]   → DataAgent: api_call_only
+[2026-04-19T06:09:43] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:09:43] === Cycle 14 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T06:09:47]   → DataAgent: api_call_only
+[2026-04-19T06:09:49] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:09:49] === Cycle 15 | Alive: 1 | Master: $10.00 ===
+[2026-04-19T06:09:52]   → DataAgent: api_call_only
+[2026-04-19T06:09:54] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:09:54] === Cycle 16 | Alive: 1 | Master: $10.01 ===
+[2026-04-19T06:09:57]   → DataAgent: api_call_only
+[2026-04-19T06:09:59] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:09:59] === Cycle 17 | Alive: 1 | Master: $10.01 ===
+[2026-04-19T06:10:02]   → DataAgent: api_call_only
+[2026-04-19T06:10:04] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:10:04] === Cycle 18 | Alive: 1 | Master: $10.01 ===
+[2026-04-19T06:10:08]   → DataAgent: api_call_only
+[2026-04-19T06:10:10] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:10:10] === Cycle 19 | Alive: 1 | Master: $10.01 ===
+[2026-04-19T06:10:14]   → DataAgent: api_call_only
+[2026-04-19T06:10:16] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:10:16] === Cycle 20 | Alive: 1 | Master: $10.01 ===
+[2026-04-19T06:10:19] SovereignSwarm session complete
+[2026-04-19T06:10:19] Final status: {'master_balance': 10.006075, 'total_agents': 1, 'alive_agents': 1, 'dead_agents': 0, 'total_earned': 60.00607499999999}
+[2026-04-19T06:10:52] Sovereign initialised
+[2026-04-19T06:10:52] Starting SovereignSwarm — 3 initial agents
+[2026-04-19T06:10:52] SPAWNED SaaSAgent (streams: ['saas', 'subscription'])
+[2026-04-19T06:10:52]   → SaaSAgent: ready_to_sell
+[2026-04-19T06:10:55] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:10:55] === Cycle 1 | Alive: 1 | Master: $11.05 ===
+[2026-04-19T06:10:58]   → SaaSAgent: ready_to_sell
+[2026-04-19T06:11:00] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:11:00] === Cycle 2 | Alive: 1 | Master: $12.10 ===
+[2026-04-19T06:11:03]   → SaaSAgent: ready_to_sell
+[2026-04-19T06:11:05] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:11:05] === Cycle 3 | Alive: 1 | Master: $13.45 ===
+[2026-04-19T06:11:08]   → SaaSAgent: ready_to_sell
+[2026-04-19T06:11:10] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:11:10] === Cycle 4 | Alive: 1 | Master: $14.79 ===
+[2026-04-19T06:11:13]   → SaaSAgent: ready_to_sell
+[2026-04-19T06:11:15] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:11:15] === Cycle 5 | Alive: 1 | Master: $15.54 ===
+[2026-04-19T06:11:18]   → SaaSAgent: ready_to_sell
+[2026-04-19T06:11:20] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:11:20] === Cycle 6 | Alive: 1 | Master: $16.89 ===
+[2026-04-19T06:11:23]   → SaaSAgent: ready_to_sell
+[2026-04-19T06:11:25] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:11:25] === Cycle 7 | Alive: 1 | Master: $18.09 ===
+[2026-04-19T06:11:29]   → SaaSAgent: ready_to_sell
+[2026-04-19T06:11:30] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:11:30] === Cycle 8 | Alive: 1 | Master: $18.99 ===
+[2026-04-19T06:11:34]   → SaaSAgent: ready_to_sell
+[2026-04-19T06:11:36] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:11:36] === Cycle 9 | Alive: 1 | Master: $20.34 ===
+[2026-04-19T06:11:39]   → SaaSAgent: ready_to_sell
+[2026-04-19T06:11:41] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:11:41] === Cycle 10 | Alive: 1 | Master: $21.54 ===
+[2026-04-19T06:11:44]   → SaaSAgent: ready_to_sell
+[2026-04-19T06:11:46] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:11:46] === Cycle 11 | Alive: 1 | Master: $23.03 ===
+[2026-04-19T06:11:49]   → SaaSAgent: ready_to_sell
+[2026-04-19T06:11:51] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:11:51] === Cycle 12 | Alive: 1 | Master: $25.28 ===
+[2026-04-19T06:11:54]   → SaaSAgent: ready_to_sell
+[2026-04-19T06:11:56] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:11:56] === Cycle 13 | Alive: 1 | Master: $26.78 ===
+[2026-04-19T06:11:59]   → SaaSAgent: ready_to_sell
+[2026-04-19T06:12:01] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:12:01] === Cycle 14 | Alive: 1 | Master: $27.68 ===
+[2026-04-19T06:12:04]   → SaaSAgent: ready_to_sell
+[2026-04-19T06:12:06] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:12:06] === Cycle 15 | Alive: 1 | Master: $28.58 ===
+[2026-04-19T06:12:09]   → SaaSAgent: ready_to_sell
+[2026-04-19T06:12:11] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:12:11] === Cycle 16 | Alive: 1 | Master: $30.08 ===
+[2026-04-19T06:12:14]   → SaaSAgent: ready_to_sell
+[2026-04-19T06:12:16] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:12:16] === Cycle 17 | Alive: 1 | Master: $30.67 ===
+[2026-04-19T06:12:19]   → SaaSAgent: ready_to_sell
+[2026-04-19T06:12:21] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:12:21] === Cycle 18 | Alive: 1 | Master: $31.27 ===
+[2026-04-19T06:12:24]   → SaaSAgent: ready_to_sell
+[2026-04-19T06:12:26] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:12:26] === Cycle 19 | Alive: 1 | Master: $32.02 ===
+[2026-04-19T06:12:30]   → SaaSAgent: ready_to_sell
+[2026-04-19T06:12:32] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:12:32] === Cycle 20 | Alive: 1 | Master: $32.62 ===
+[2026-04-19T06:12:35] SovereignSwarm session complete
+[2026-04-19T06:12:35] Final status: {'master_balance': 32.620000000000005, 'total_agents': 1, 'alive_agents': 1, 'dead_agents': 0, 'total_earned': 82.62000000000003}
+[2026-04-19T06:33:27] Sovereign initialised
+[2026-04-19T06:33:27] Starting SovereignSwarm — 3 initial agents
+[2026-04-19T06:33:28]   → SaaSAgent: ready_to_sell
+[2026-04-19T06:33:29] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T06:33:29] === Cycle 1 | Alive: 1 | Master: $33.82 ===
+[2026-04-19T06:33:32]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:26:30] Sovereign initialised
+[2026-04-19T20:26:30] Starting SovereignSwarm — 3 initial agents
+[2026-04-19T20:26:30] SPAWNED SecAgent (streams: ['security_audit', 'bounty'])
+[2026-04-19T20:26:31]   → SecAgent: earned $23.97 via submitted
+[2026-04-19T20:26:35] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:26:35] === Cycle 1 | Alive: 1 | Master: $17.19 ===
+[2026-04-19T20:26:38]   → SecAgent: earned $24.38 via submitted
+[2026-04-19T20:26:40] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:26:40] === Cycle 2 | Alive: 1 | Master: $24.50 ===
+[2026-04-19T20:26:50]   → SecAgent: earned $92.56 via submitted
+[2026-04-19T20:26:51] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:26:51] === Cycle 3 | Alive: 1 | Master: $52.27 ===
+[2026-04-19T20:26:54] Sovereign initialised
+[2026-04-19T20:26:54] Starting SovereignSwarm — 3 initial agents
+[2026-04-19T20:26:55]   → SecAgent: earned $81.76 via submitted
+[2026-04-19T20:26:55]   → SecAgent: earned $49.14 via submitted
+[2026-04-19T20:26:56] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:26:56] === Cycle 4 | Alive: 1 | Master: $91.54 ===
+[2026-04-19T20:26:58] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:26:58] === Cycle 1 | Alive: 1 | Master: $91.54 ===
+[2026-04-19T20:26:59] SPAWNED DevAgent (streams: ['freelance_dev', 'api_aggregation'])
+[2026-04-19T20:27:00]   → SecAgent: earned $13.25 via submitted
+[2026-04-19T20:27:00]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:27:01] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:27:01] === Cycle 5 | Alive: 2 | Master: $48.73 ===
+[2026-04-19T20:27:01]   → SecAgent: earned $57.18 via submitted
+[2026-04-19T20:27:01]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:27:03] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:27:03] === Cycle 2 | Alive: 2 | Master: $79.49 ===
+[2026-04-19T20:27:04] SPAWNED SecAgent (streams: ['security_audit', 'bounty'])
+[2026-04-19T20:27:05]   → SecAgent: earned $57.61 via submitted
+[2026-04-19T20:27:05]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:27:06]   → SecAgent: earned $21.28 via submitted
+[2026-04-19T20:27:07] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:27:07] === Cycle 6 | Alive: 3 | Master: $60.64 ===
+[2026-04-19T20:27:08]   → SecAgent: earned $20.52 via submitted
+[2026-04-19T20:27:08]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:27:08]   → SecAgent: earned $52.78 via submitted
+[2026-04-19T20:27:09] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:27:09] === Cycle 3 | Alive: 3 | Master: $89.35 ===
+[2026-04-19T20:27:10] SPAWNED SaaSAgent (streams: ['saas', 'subscription'])
+[2026-04-19T20:27:11]   → SecAgent: earned $57.60 via submitted
+[2026-04-19T20:27:11]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:27:12]   → SecAgent: earned $77.69 via submitted
+[2026-04-19T20:27:12]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:27:12] SPAWNED SaaSAgent (streams: ['saas', 'subscription'])
+[2026-04-19T20:27:13] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:27:13] === Cycle 7 | Alive: 5 | Master: $47.17 ===
+[2026-04-19T20:27:13]   → SecAgent: earned $84.50 via submitted
+[2026-04-19T20:27:13]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:27:14]   → SecAgent: earned $84.26 via submitted
+[2026-04-19T20:27:14]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:27:14]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:27:15] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:27:15] === Cycle 4 | Alive: 5 | Master: $110.49 ===
+[2026-04-19T20:27:17]   → SecAgent: research_only
+[2026-04-19T20:27:17]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:27:17]   → SecAgent: earned $95.66 via submitted
+[2026-04-19T20:27:17]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:27:17]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:27:18]   → SecAgent: research_only
+[2026-04-19T20:27:18]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:27:19] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:27:19] === Cycle 8 | Alive: 5 | Master: $162.59 ===
+[2026-04-19T20:27:19]   → SecAgent: research_only
+[2026-04-19T20:27:19]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:27:19]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:27:20] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:27:20] === Cycle 5 | Alive: 5 | Master: $164.69 ===
+[2026-04-19T20:27:22]   → SecAgent: research_only
+[2026-04-19T20:27:22]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:27:22]   → SecAgent: research_only
+[2026-04-19T20:27:22]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:27:22]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:27:23]   → SecAgent: research_only
+[2026-04-19T20:27:23]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:27:23] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:27:23] === Cycle 9 | Alive: 5 | Master: $189.49 ===
+[2026-04-19T20:27:24]   → SecAgent: research_only
+[2026-04-19T20:27:24]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:27:24]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:27:25] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:27:25] === Cycle 6 | Alive: 5 | Master: $190.98 ===
+[2026-04-19T20:27:27]   → SecAgent: earned $46.22 via submitted
+[2026-04-19T20:27:27]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:27:27]   → SecAgent: research_only
+[2026-04-19T20:27:27]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:27:27]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:27:28]   → SecAgent: research_only
+[2026-04-19T20:27:28]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:27:28]   → SecAgent: research_only
+[2026-04-19T20:27:28]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:27:28]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:27:29] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:27:29] === Cycle 10 | Alive: 5 | Master: $225.42 ===
+[2026-04-19T20:27:30] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:27:30] === Cycle 7 | Alive: 5 | Master: $225.42 ===
+[2026-04-19T20:27:32]   → SecAgent: research_only
+[2026-04-19T20:27:32]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:27:32]   → SecAgent: research_only
+[2026-04-19T20:27:32]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:27:32]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:27:33]   → SecAgent: research_only
+[2026-04-19T20:27:33]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:27:33]   → SecAgent: research_only
+[2026-04-19T20:27:33]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:27:33]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:27:33] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:27:33] === Cycle 11 | Alive: 5 | Master: $250.81 ===
+[2026-04-19T20:27:34] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:27:34] === Cycle 8 | Alive: 5 | Master: $250.81 ===
+[2026-04-19T20:27:37]   → SecAgent: earned $13.14 via submitted
+[2026-04-19T20:27:37]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:27:37]   → SecAgent: research_only
+[2026-04-19T20:27:37]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:27:37]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:27:38]   → SecAgent: research_only
+[2026-04-19T20:27:38]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:27:39]   → SecAgent: earned $25.54 via submitted
+[2026-04-19T20:27:39]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:27:39]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:27:39] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:27:39] === Cycle 12 | Alive: 5 | Master: $288.20 ===
+[2026-04-19T20:27:40] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:27:40] === Cycle 9 | Alive: 5 | Master: $288.20 ===
+[2026-04-19T20:27:42]   → SecAgent: research_only
+[2026-04-19T20:27:42]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:27:42]   → SecAgent: research_only
+[2026-04-19T20:27:42]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:27:42]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:27:49]   → SecAgent: earned $29.48 via submitted
+[2026-04-19T20:27:49]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:27:50] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:27:50] === Cycle 13 | Alive: 5 | Master: $309.41 ===
+[2026-04-19T20:27:50]   → SecAgent: earned $49.01 via submitted
+[2026-04-19T20:27:50]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:27:50]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:27:51] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:27:51] === Cycle 10 | Alive: 5 | Master: $327.26 ===
+[2026-04-19T20:27:53]   → SecAgent: earned $46.02 via submitted
+[2026-04-19T20:27:53]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:27:54]   → SecAgent: research_only
+[2026-04-19T20:27:54]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:27:54]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:27:55] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:27:55] === Cycle 14 | Alive: 5 | Master: $351.52 ===
+[2026-04-19T20:27:55]   → SecAgent: earned $93.57 via submitted
+[2026-04-19T20:27:55]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:27:55]   → SecAgent: research_only
+[2026-04-19T20:27:55]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:27:55]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:27:56] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:27:56] === Cycle 11 | Alive: 5 | Master: $392.81 ===
+[2026-04-19T20:27:58]   → SecAgent: research_only
+[2026-04-19T20:27:58]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:27:59]   → SecAgent: earned $0.64 via submitted
+[2026-04-19T20:27:59]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:27:59]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:28:00]   → SecAgent: research_only
+[2026-04-19T20:28:00]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:28:00]   → SecAgent: research_only
+[2026-04-19T20:28:00]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:28:00]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:28:00] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:28:00] === Cycle 15 | Alive: 5 | Master: $415.22 ===
+[2026-04-19T20:28:01] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:28:01] === Cycle 12 | Alive: 5 | Master: $415.22 ===
+[2026-04-19T20:28:04]   → SecAgent: earned $19.06 via submitted
+[2026-04-19T20:28:04]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:28:04]   → SecAgent: earned $85.90 via submitted
+[2026-04-19T20:28:04]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:28:04]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:28:05]   → SecAgent: earned $86.63 via submitted
+[2026-04-19T20:28:05]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:28:05]   → SecAgent: earned $67.78 via submitted
+[2026-04-19T20:28:05]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:28:05]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:28:06] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:28:06] === Cycle 16 | Alive: 5 | Master: $518.55 ===
+[2026-04-19T20:28:06] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:28:06] === Cycle 13 | Alive: 5 | Master: $518.55 ===
+[2026-04-19T20:28:09]   → SecAgent: earned $0.36 via submitted
+[2026-04-19T20:28:09]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:28:09]   → SecAgent: research_only
+[2026-04-19T20:28:09]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:28:09]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:28:10]   → SecAgent: research_only
+[2026-04-19T20:28:10]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:28:10] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:28:10] === Cycle 17 | Alive: 5 | Master: $534.46 ===
+[2026-04-19T20:28:11]   → SecAgent: earned $84.31 via submitted
+[2026-04-19T20:28:11]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:28:11]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:28:12] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:28:12] === Cycle 14 | Alive: 5 | Master: $561.25 ===
+[2026-04-19T20:28:15]   → SecAgent: earned $3.26 via submitted
+[2026-04-19T20:28:16]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:28:16]   → SecAgent: earned $20.46 via submitted
+[2026-04-19T20:28:16]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:28:16]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:28:16]   → SecAgent: earned $82.30 via submitted
+[2026-04-19T20:28:16]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:28:16]   → SecAgent: research_only
+[2026-04-19T20:28:16]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:28:16]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:28:17] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:28:17] === Cycle 15 | Alive: 5 | Master: $613.95 ===
+[2026-04-19T20:28:18] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:28:18] === Cycle 18 | Alive: 5 | Master: $613.95 ===
+[2026-04-19T20:28:20]   → SecAgent: research_only
+[2026-04-19T20:28:21]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:28:21]   → SecAgent: research_only
+[2026-04-19T20:28:21]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:28:21]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:28:21]   → SecAgent: research_only
+[2026-04-19T20:28:21]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:28:22]   → SecAgent: earned $82.16 via submitted
+[2026-04-19T20:28:22]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:28:22]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:28:22] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:28:22] === Cycle 16 | Alive: 5 | Master: $673.42 ===
+[2026-04-19T20:28:23] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:28:23] === Cycle 19 | Alive: 5 | Master: $673.42 ===
+[2026-04-19T20:28:26]   → SecAgent: earned $75.76 via submitted
+[2026-04-19T20:28:26]   → SecAgent: earned $66.99 via submitted
+[2026-04-19T20:28:26]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:28:26]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:28:26]   → SecAgent: research_only
+[2026-04-19T20:28:26]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:28:26]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:28:27]   → SecAgent: earned $31.53 via submitted
+[2026-04-19T20:28:27]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:28:27]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:28:28] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:28:28] === Cycle 17 | Alive: 5 | Master: $747.82 ===
+[2026-04-19T20:28:28] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:28:28] === Cycle 20 | Alive: 5 | Master: $747.82 ===
+[2026-04-19T20:28:31]   → SecAgent: research_only
+[2026-04-19T20:28:31]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:28:31] SovereignSwarm session complete
+[2026-04-19T20:28:31] Final status: {'master_balance': 752.6614999999999, 'total_agents': 5, 'alive_agents': 5, 'dead_agents': 0, 'total_earned': 1002.6615}
+[2026-04-19T20:28:32]   → SecAgent: earned $96.09 via submitted
+[2026-04-19T20:28:32]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:28:32]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:28:33] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:28:33] === Cycle 18 | Alive: 5 | Master: $783.44 ===
+[2026-04-19T20:28:36]   → SecAgent: research_only
+[2026-04-19T20:28:36]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:28:36]   → SecAgent: research_only
+[2026-04-19T20:28:36]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:28:36]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:28:38] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:28:38] === Cycle 19 | Alive: 5 | Master: $795.04 ===
+[2026-04-19T20:28:42]   → SecAgent: earned $49.29 via submitted
+[2026-04-19T20:28:48]   ⚠ DevAgent error: name 'stream' is not defined
+[2026-04-19T20:28:48]   → SecAgent: earned $23.00 via submitted
+[2026-04-19T20:28:48]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:28:48]   → SaaSAgent: ready_to_sell
+[2026-04-19T20:28:50] [BANK] ⚠️  Payout failed — add BNB_WALLET_ADDRESS + BNB_PRIVATE_KEY in Settings > Advanced
+[2026-04-19T20:28:50] === Cycle 20 | Alive: 5 | Master: $828.03 ===
+[2026-04-19T20:28:53] SovereignSwarm session complete
+[2026-04-19T20:28:53] Final status: {'master_balance': 828.032, 'total_agents': 5, 'alive_agents': 5, 'dead_agents': 0, 'total_earned': 1078.032}
