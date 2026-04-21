@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.pyc
+*.db
+*.sqlite
+*.egg-info/
+build/
+dist/
+.env
+*.log
+node_modules/
+.DS_Store
+*.pem
+*.key
